@@ -118,7 +118,7 @@ const gallerybook = () => {
        
                     
                         
-                        <div class="col-lg-6 col-12 mb-lg-5">
+                        <div class="col-lg-6 col-12 ">
                             <div class="news-block">
                                 <div class="news-block-top">
                                    

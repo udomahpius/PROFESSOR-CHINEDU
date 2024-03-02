@@ -70,23 +70,23 @@ const conference = [
     },
     {
         id: 7,
-        date:`3rd-5th July 2023 07`,
+        date:`3rd-5th July 2023 `,
         title: `Okeke, C., & Akobi, T.`,
         body: `  Effect of collaborative learning instructional strategy
         on social skill development of primary school pupils. Paper presented at the
         EDULEARN23 – 15th International Conference on Education and New Learning
         Technologies  Palma, Mallorca, Spain.  <a href="https://iated.org/edulearn/" class="text-primary">edulearn</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/EFFECT OF COLLABORATIVE LEARNING INSTRUCTIONAL STRATEGY ON SOCIAL SKILL DEVELOPMENT OF PRIMARY SCHOOL PUPILS.pdf" download="./OKEKE PUBLICATIONS/EFFECT OF COLLABORATIVE LEARNING INSTRUCTIONAL STRATEGY ON SOCIAL SKILL DEVELOPMENT OF PRIMARY SCHOOL PUPILS.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 8,
         date:`3rd-5th
-        July 2023 08`,
+        July 2023 `,
         title: `Akobi, T., & Okeke, C.`,
         body: ` Effect of edutainment videos on cognitive and social
         skills development of preschool children. Paper presented at the EDULEARN23 –
         15th International Conference on Education and New Learning Technologies  Palma, Mallorca, Spain.  <a href="https://iated.org/edulearn/" class="text-primary">edulearn</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/EFFECT OF EDUTAINMENT VIDEOS ON COGNITIVE AND SOCIAL SKILLS DEVELOPMENT OF PRESCHOOL CHILDREN.pdf" download="./OKEKE PUBLICATIONS/EFFECT OF EDUTAINMENT VIDEOS ON COGNITIVE AND SOCIAL SKILLS DEVELOPMENT OF PRESCHOOL CHILDREN.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id:9,
@@ -119,12 +119,12 @@ const conference = [
     },
     {
         id: 12,
-        date:`March 6th-8th, 2023 12`,
+        date:`March 6th-8th, 2023 `,
         title: `Akobi, O., & Okeke, C. `,
         body: `  Effects of demographic characteristics on workstimulated stress among early childhood educators using structural equation
         modelling. Paper presented at the INTED2022 Conference 
         Valencia, Spain.  <a href="https://10.21125/inted.2023" class="text-primary">Conference</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/EFFECTS OF DEMOGRAPHIC CHARACTERISTICS ON WORK STIMULATED STRESS AMONG EARLY CHILDHOOD EDUCATORS.pdf" download="./OKEKE PUBLICATIONS/EFFECTS OF DEMOGRAPHIC CHARACTERISTICS ON WORK STIMULATED STRESS AMONG EARLY CHILDHOOD EDUCATORS.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 13,
@@ -140,12 +140,12 @@ const conference = [
     {
         id: 14,
         date:`24-
-        26th October 2022 14`,
+        26th October 2022 `,
         title: `Ede, M.O. & Okeke, C.I. `,
         body: `  Covid-19 and retirement counselling: parents who
         retired early with little children’s perspective and implications for inclusive policies. A
         paper to be presented during the Global Education Network (GEN) Conference. Ba Isago University Botswana`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/COVID-19 AND RETIREMENT COUNSELLING_ PARENTS WHO RETIRED EARLY WITH LITTLE CHILDRENS PERSPECTIVE AND IMPLICATIONS.pdf" download="./OKEKE PUBLICATIONS/COVID-19 AND RETIREMENT COUNSELLING_ PARENTS WHO RETIRED EARLY WITH LITTLE CHILDRENS PERSPECTIVE AND IMPLICATIONS.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 15,
@@ -199,13 +199,13 @@ const conference = [
     },
     {
         id: 20,
-        date:`18th – 19th November, 2021 20`,
+        date:`18th – 19th November, 2021`,
         title: `Mhlanga, S., Okeke, C.I., & Edeh, M.O. `,
         body: `  Constraints inhibiting Zimbabwean
         parents’ active involvement in their children’s preschool education in the Bubi District.
         Paper presented virtually at the South African International Conference on Education
          South Africa.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Constraints Inhibiting Zimbabwean Parents Active Involvement.pdf" download="./OKEKE PUBLICATIONS/Constraints Inhibiting Zimbabwean Parents Active Involvement.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 21,
@@ -239,12 +239,12 @@ const conference = [
     },
     {
         id: 24,
-        date:`18th – 19th November, 2021 24`,
+        date:`18th – 19th November, 2021`,
         title: `Okeke, C.I., & Adams, C.G.G.`,
         body: ` Fathers’ participation in the social
         development of their children under six: Challenges and strategic implications. Paper
         presented virtually at the South African International Conference on Education, South Africa. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/fathers participation in the social development of their children.pdf" download="./OKEKE PUBLICATIONS/fathers participation in the social development of their children.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 25,
@@ -324,21 +324,21 @@ const conference = [
     {
         id: 32,
         date:`5th-
-        6th July 2021 32`,
+        6th July 2021 `,
         title: `Ugwuanyi, C.S. & Okeke, C.I. `,
         body: ` Determinants of preschool teachers’
         competence in the use of online teaching space during and after the Covid-19 pandemic. A paper presented at the EDULEARN21 Virtual Conference. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/DETERMINANTS OF PRESCHOOL TEACHERS COMPETENCE IN THE USE OF ONLINE TEACHING SPACE DURING AND AFTER THE COVID-19 PANDEMIC.pdf" download="./OKEKE PUBLICATIONS/DETERMINANTS OF PRESCHOOL TEACHERS COMPETENCE IN THE USE OF ONLINE TEACHING SPACE DURING AND AFTER THE COVID-19 PANDEMIC.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 33,
         date:`5th-
-        6th July 2021 33`,
+        6th July 2021 `,
         title: `Ugwuanyi, C.S. & Okeke, C.I.`,
         body: ` Enhancing primary school children’s
         achievement in basic science using flipped classroom: A Case of Simple Repeated
         Measures. A paper presented at the EDULEARN21 Virtual Conference. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/ENHANCING PRIMARY SCHOOL CHILDRENS ACHIEVEMENT IN BASIC SCIENCE USING FLIPPED CLASSROOM.pdf" download="./OKEKE PUBLICATIONS/ENHANCING PRIMARY SCHOOL CHILDRENS ACHIEVEMENT IN BASIC SCIENCE USING FLIPPED CLASSROOM.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 34,
@@ -671,7 +671,264 @@ const conference = [
         Reflections from two African countries. Paper presented at the Critical Methods
         Conference held 6 – 9 July 2008 at Rhodes University, Grahamstown, South Africa.`,
         download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
-    }
+    },
+    {
+        id: 67,
+        date:`2023 67`,
+        title: ` Ugwuanyi, C.S., Okeke, C.C., & Okeke, C.I. `,
+        body: ` Practitioners’ perspectives on the challenges encountered in maintaining mobile early childhood
+        care and education centres. Proceedings of EDULEARN23 Conference, 3rd-5th July
+        2023, Palma, Mallorca, Spain, 0142-0146. ISBN: 978-84-09-52151-7.    <a href="https://iated.org/edulearn/" class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 68,
+        date:`2023 68`,
+        title: `Okeke, C.I., Okeke, C.C., & Ugwuanyi, C.S.  `,
+        body: ` Perspectives of early
+        childhood educators regarding parental involvement in mobile early childhood care
+        and education activities. Proceedings of EDULEARN23 Conference, 3rd-5th July
+        2023, Palma, Mallorca, Spain, 0147-0152. ISBN: 978-84-09-52151-7.    <a href="https://iated.org/edulearn/" class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 69,
+        date:`2023 69`,
+        title: `Okeke, C., & Akobi, T. `,
+        body: ` Effect of collaborative learning instructional
+        strategy on social skill development of primary school pupils. Proceedings of
+        EDULEARN23 Conference, 3rd-5th July 2023, Palma, Mallorca, Spain, 0419-0425.
+        ISBN: 978-84-09-52151-7.    <a href="https://iated.org/edulearn/" class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 70,
+        date:`2023 70`,
+        title: ` Akobi, T., & Okeke, C.  `,
+        body: `Effect of edutainment videos on cognitive and
+        social skills development of preschool children. Proceedings of EDULEARN23 Conference, 3rd-5th July 2023, Palma, Mallorca, Spain, 0426-0435. ISBN: 978-84- 09-52151-7.   <a href="https://iated.org/edulearn/ " class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 71,
+        date:`2023 71`,
+        title: `Ugwuanyi, C., & Okeke, C.  `,
+        body: ` Pupils’ autonomy, competence, and
+        relatedness as determinants of online learning engagement during the COVID-19
+        pandemic. Proceedings of INTED2022 Conference March 6th-8th, 2023, Valencia, Spain, pp. 0056-0064. ISBN: 978-84-09-49026-4.    <a href="https://10.21125/inted.2023." class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 72,
+        date:`2023 72`,
+        title: `Okeke, C., & Ugwuanyi, C.  `,
+        body: ` Impact of primary school teachers’ demographics on their psychosocial work hazards: a cross-sectional survey of
+        Nigerian teachers. Proceedings of INTED2022 Conference March 6th-8th, 2023, Valencia, Spain, pp. 8631-8638. ISBN: 978-84-09-49026-4.    <a href="https://10.21125/inted.2023" class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 73,
+        date:`2023 73`,
+        title: `Okeke, C., & Akobi, T.  `,
+        body: ` Effect of flipped classroom on cognitive and
+        emotional skills development of primary school pupils. Proceedings of INTED2022
+        Conference March 6th-8th, 2023, Valencia, Spain, pp. 1217-1225. ISBN: 978-84-09- 49026-4.    <a href="https://10.21125/inted.2023" class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 74,
+        date:`2023 74`,
+        title: `Akobi, O., & Okeke, C.  `,
+        body: ` Effects of demographic characteristics on
+        work-stimulated stress among early childhood educators using structural equation
+        modelling. Proceedings of INTED2022 Conference March 6th-8th, 2023, Valencia, Spain, pp. 1226-1233. ISBN: 978-84-09-49026-4.    <a href="https://10.21125/inted.2023" class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 75,
+        date:`2022 75`,
+        title: `Ede, M.O. & Okeke, C.I.  `,
+        body: ` Covid-19 and retirement counselling: parents
+        who retired early with little children’s perspective and implications for inclusive
+        policies. Proceedings of Global Education Network (GEN) Conference 24-26
+        th
+        October 2022. Ba Isago University Botswana, 270-277     `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 76,
+        date:`2022 76`,
+        title: `Edeh, M.O., & Okeke, C.I.O.  `,
+        body: ` COVID-19 and retirement counselling:
+        Parents who retired early with little children‘s perspective and implications for
+        inclusive policies. Proceedings of the Global Education Network (270-277). 24 – 26
+        October 2022. BA Isago University Botswana, ISBN: 978-978-59206-6-6 `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 77,
+        date:`2022 `,
+        title: ` Ugwuanyi, C.S., & Okeke, C.I.  `,
+        body: `   Assessment of the extent of preschool
+        teachers’ utilisation of information and communication technology in teaching. Proceedings of EDULEARN22 Conference, 4th-6th July 2022, pp. 0086-0091. Palma, Mallorca, Spain. ISBN: 978-84-09-42484-9. `,
+        download: `<a href="./OKEKE PUBLICATIONS/ASSESSMENT OF THE EXTENT OF PRESCHOOL TEACHERS UTILISATION OF INFORMATION AND COMMUNICATION TECHNOLOGY IN TEACHING.pdf" download="./OKEKE PUBLICATIONS/ASSESSMENT OF THE EXTENT OF PRESCHOOL TEACHERS UTILISATION OF INFORMATION AND COMMUNICATION TECHNOLOGY IN TEACHING.pdf" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 78,
+        date:`2022`,
+        title: `Ede, M.O., Okeke, C., & Okeke, C.  `,
+        body: ` Examination of the prevalence and
+        predictors of videogame addiction among school children. Proceedings of
+        EDULEARN22 Conference, 4th-6th July 2022, pp. 2465-2471. Palma, Mallorca, Spain. ISBN: 978-84-09-42484-9. `,
+        download: `<a href="./OKEKE PUBLICATIONS/EXAMINATION OF THE PREVALENCE AND PREDICTORS OF VIDEOGAME ADDICTION AMONG SCHOOL CHILDREN.pdf" download="./OKEKE PUBLICATIONS/EXAMINATION OF THE PREVALENCE AND PREDICTORS OF VIDEOGAME ADDICTION AMONG SCHOOL CHILDREN.pdf" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 79,
+        date:`2022 79`,
+        title: `Okeke, C., Okeke, C., & Edeh, M.  `,
+        body: ` Working status, teaching
+        experiences and workplace deviant behaviors of primary school teachers in Enugu
+        State Nigeria. Proceedings of EDULEARN22 Conference, 4th-6th July 2022, pp. 2261-2266. Palma, Mallorca, Spain. ISBN: 978-84-09-42484-9.`,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 80,
+        date:`2022 80`,
+        title: `Ugwuanyi, C.S., & Okeke, C.  `,
+        body: ` Improving grade three learners’ achievement in basic science: Impact of electronic library resources. Proceedings of
+        INTED2022 Conference 7th-8th March 2022, pp. 1424 – 1430. ISBN: 978-84-09- 37758-9.`,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 81,
+        date:`2022 `,
+        title: `Ugwuanyi, C.S., & Okeke, C.  `,
+        body: `  Assessment of level of information and
+        communication technology competency of preschool teachers for the adoption of
+        online learning. Proceedings of INTED2022 Conference 7th-8th March 2022, pp. 1431 – 1437. ISBN: 978-84-09-31267-2.`,
+        download: `<a href="./OKEKE PUBLICATIONS/ASSESSMENT OF LEVEL OF INFORMATION AND COMMUNICATION TECHNOLOGY COMPETENCY OF PRESCHOOL.pdf" download="./OKEKE PUBLICATIONS/ASSESSMENT OF LEVEL OF INFORMATION AND COMMUNICATION TECHNOLOGY COMPETENCY OF PRESCHOOL.pdf" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 82,
+        date:`2021 82`,
+        title: `Thwala, S.K., Ede, M.O., Okeke, C.I., & Dlamini, Z.  `,
+        body: ` Effects of school- based support strategies on learning conditions of school children with albinism in
+        eSwatini primary schools. Proceedings of South African International Conference on
+        Education (SAICEd), 386-397. `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 83,
+        date:`2021 83`,
+        title: `Ugwuanyi, C.S, Okeke, C.C., & Okeke, C.I.   `,
+        body: ` Influence of preschool
+        practitioners’ demographic characteristics on their classroom discipline practices: A
+        quantitative research approach. Proceedings of South African International
+        Conference on Education (SAICEd), 65-72. `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 84,
+        date:`2021 84`,
+        title: `Okeke, C.I., & Adams, C.G.G.  `,
+        body: ` Fathers’ participation in the social
+        development of their children under six years: Challenges and strategic implications. Proceedings of South African International Conference on Education (SAICEd), 199- 210. `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 85,
+        date:`2021 85`,
+        title: `Ugwuanyi, C.S, Okeke, C.C., & Okeke, C.I.  `,
+        body: ` Effect of electronic books
+        on children's achievement in basic science: a case of simple repeated measures. Proceedings of South African International Conference on Education (SAICEd), 223- 230.`,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 86,
+        date:`2021 86`,
+        title: `Mhlanga, S., Okeke, C.I., & Edeh, M.O.   `,
+        body: ` Constraints inhibiting
+        Zimbabwean parents’ active involvement in their children’s preschool education in
+        the Bubi district. Proceedings of South African International Conference on Education
+        (SAICEd), 231-242. `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 87,
+        date:`2021 87`,
+        title: `Gqoli, N., Okeke, C.I.O., & Ugwuanyi, C.S.  `,
+        body: `  Practitioner conceptions of
+        mathematical knowledge in early childhood development in rural district of the Eastern Cape Province, South Africa. Proceedings of South African International
+        Conference on Education (SAICEd), 277-288. `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 88,
+        date:`2021 88`,
+        title: `Ede, M.O., Okeke, C.I., Mokhele-Makgalwa, M.L., & Okeke, C.  `,
+        body: ` Family
+        Size and psychosocial behaviours of school children in Nsukka Education Authority
+        Enugu State in Nigeria (302-318). African Perspectives on Research, Innovation and
+        Development in the COVID-19 era. Proceedings of the Global Education Network, Nigeria. ISBN: 978-978-58895-3-6.    <a href="https://globaledunet.org/wp- content/uploads/2021/11/GEN-FINAL-1.pdf" class="text-primary">Online</a>  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 81,
+        date:`2021 81`,
+        title: `Ugwuanyi, C.S., & Okeke, C.I.  `,
+        body: ` The efficacy of music-based cognitive
+        behaviour therapy in the reduction of test anxiety among primary school pupils in
+        basic science (113-122). Proceedings of Science Teachers Association of Nigeria.
+        ISBN: 978-978-52160-5-9.`,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 82,
+        date:`2021 82`,
+        title: `Ugwuanyi, C.S., & Okeke, C.I.  `,
+        body: ` Determinants of preschool teachers’ competence in the use of online teaching space during and after the Covid-19
+        pandemic. Proceedings of EDULEARN21 Conference, 9999-10004. ISBN: 978-84- 09-31267-2  `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 83,
+        date:`2021 83`,
+        title: ` Ugwuanyi, C.S., & Okeke, C.I. `,
+        body: `  Enhancing primary school children’s
+        achievement in basic science using flipped classroom: A Case of Simple Repeated
+        Measures. Proceedings of EDULEARN21 Conference, 10005-10010. ISBN: 978-84- 09-31267-2 `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 84,
+        date:`2020 84`,
+        title: `Ugwuanyi, C.S., Okeke, C.C. & Okeke, C.I.O.  `,
+        body: ` Intervention strategies
+        that can improve South African fathers’ engagement in the early education of their
+        children: A quantitative approach. Proceedings of the Multi-Disciplinary International
+        Conference of Global Education Network in Collaboration with the University of Lome, Togo, 175-184 `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 85,
+        date:`2020 85`,
+        title: `Ugwuanyi, C.S., Okeke, C.I.O & Ageda, T.A.  `,
+        body: ` Motivation and self- efficacy as correlates of secondary school physics students’ academic achievement
+        in Benue State, Nigeria. Proceedings of South African International Conference on
+        Education (SAICEd), 29-36. `,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+    {
+        id: 86,
+        date:`2020 86`,
+        title: `Okeke, C.I.O., Ugwuanyi, C.S., & Mufutau, M.A.  `,
+        body: `  Teachers' perceptions about engaging fathers in the early education of their children: A
+        quantitative research approach. Proceedings of South African International
+        Conference on Education (SAICEd), 130-138.`,
+        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+    },
+
+
 ]
 
 

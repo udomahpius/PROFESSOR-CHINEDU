@@ -40,13 +40,13 @@ const journal = [
     },
     {
         id: 5,
-        date:`2023 5`,
+        date:`2023 `,
         title: `Manwedi-Thulo, L.P.J., Okeke, C.I., Ugwuanyi, C.S., & Akobi, T.O. `,
         body: `  Exploring
         strategies to strengthen the integrated inter-sectoral collaboration among early
         childhood care and education providers. International Journal of Qualitative Research,
         3 (1), 12-21.   <a href="https://doi.org/10.47540/ijqr.v3i1.907" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Exploring Strategies to Strengthen the Integrated Inter-Sectoral Collaboration Among Early Childhood Care and Education Providers.pdf" download="./OKEKE PUBLICATIONS/Exploring Strategies to Strengthen the Integrated Inter-Sectoral Collaboration Among Early Childhood Care and Education Providers.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 6,
@@ -59,13 +59,13 @@ const journal = [
     },
     {
         id: 7,
-        date:`2023 7`,
+        date:`2023 `,
         title: `Ugwuanyi, C.S., Okeke, C.I.O., & Alex, J.K. `,
         body: `  Exploring South African
         university academics’ level of preparedness for emergency multimodal remote
         teaching during the COVID-19 pandemic. Perspectives in Education, 41(2); 77-88.
           <a href="https://doi.org/10.38140/pie.v41i2.6272" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Exploring South African university academics level of preparedness for emergency multimodal remote teaching.pdf" download="./OKEKE PUBLICATIONS/Exploring South African university academics level of preparedness for emergency multimodal remote teaching.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 8,
@@ -89,21 +89,21 @@ const journal = [
     },
     {
         id: 10,
-        date:`2023 10`,
+        date:`2023 `,
         title: `Okeke, C.I., & Akobi, T.O. `,
         body: ` Causal modelling of the influence of demographic
         variables on work-stimulated stress among early childhood educators in South Africa.
         International Journal of Research in Business & Social Science, 12(2): 662-671.
           <a href="https://doi.org/10.20525/ijrbs.v12i2.2371" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Causal modelling of the influence of demographic variables on work-stimulated stress.pdf" download="./OKEKE PUBLICATIONS/Causal modelling of the influence of demographic variables on work-stimulated stress.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 11,
-        date:`2023 11`,
+        date:`2023`,
         title: `Omeke, F.C., Okeke, C.I., Ede, M.O., & Oneli JO. `,
         body: ` Coaching impact on workfamily conflict and occupational stress among educational administrators in primary schools. Medicine, 102:10(e33185).
          <a href=" http://dx.doi.org/10.1097/MD.0000000000033185" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Coaching impact on work-family conflict and occupational stress among educational.pdf" download="./OKEKE PUBLICATIONS/Coaching impact on work-family conflict and occupational stress among educational.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 12,
@@ -126,23 +126,23 @@ const journal = [
     },
     {
         id: 14,
-        date:`2023 14`,
+        date:`2023`,
         title: `Ede, M.O., & Okeke, C.I. `,
         body: `  Cognitive-behavioral therapy for treating videogame
         dependence in school-aged children. Bulletin of Counseling and Psychotherapy, 5(1):
         1-10.  <a href=" https://doi.org/10.51214/bocp.v5i1.379" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Cognitive-Behavioral Therapy for Treating Videogame Dependence in School-aged Children.pdf" download="./OKEKE PUBLICATIONS/Cognitive-Behavioral Therapy for Treating Videogame Dependence in School-aged Children.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 15,
-        date:`2023 15`,
+        date:`2023`,
         title: `Baloyi-Mothibeli, S., Okeke, C.I.O., & Ugwuanyi, C.S. `,
         body: `  Challenges impeding
         practitioners’ proper implementation of mathematical play practice environment: A
         qualitative phenomenological research approach. International Journal of Research
         in Business & Social Science, 12(1): 325-330.
         <a href="https://doi.org/10.20525/ijrbs.v12i1.2218" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Challenges impeding practitioners proper implementation of mathematical play practice environment.pdf" download="/OKEKE PUBLICATIONS/Challenges impeding practitioners proper implementation of mathematical play practice environment.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 16,
@@ -165,23 +165,23 @@ const journal = [
     },
     {
         id: 18,
-        date:`2023 18`,
+        date:`2023 `,
         title: `Ede, M.O., Okeke, C.I., & Onah, S.O. `,
         body: `  A randomised controlled trial of a
         cognitive behaviourally informed intervention for changing violent sexual attitudes
         among adult sexual offenders in prison. Criminal Behaviour & Mental Health, 33: 46-
         61. DOI: 10.1002/cbm.2269.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/A randomised controlled trial of a cognitive behaviourally informed intervention for changing violent sexual attitudes.pdf" download="./OKEKE PUBLICATIONS/A randomised controlled trial of a cognitive behaviourally informed intervention for changing violent sexual attitudes.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 19,
-        date:`2023 19`,
+        date:`2023 `,
         title: `Nnamani, O., Ndlovu, B., Okeke, C.I., & Ede, M.O.`,
         body: `  Effect of jigsaw and team
         pair‑solo cooperative learning strategies on interest in Basic Science of primary
         school children with visual impairment. Psychology in the Schools. 1–17. DOI:
         10.1002/pits.22866`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Effect of Jigsaw and Team Pair‐Solo cooperative learning strategies on interest in Basic Science.pdf" download="./OKEKE PUBLICATIONS/Effect of Jigsaw and Team Pair‐Solo cooperative learning strategies on interest in Basic Science.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 20,
@@ -195,21 +195,21 @@ const journal = [
     },
     {
         id: 21,
-        date:`2023 21`,
+        date:`2023`,
         title: `Okeke, C.I. `,
         body: `  Conceptual analysis of the implications of black fathers’ lifestyles
         and their involvement in their children’s early development. Journal of Educational
         Studies, 21(4): 71-88.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/CONCEPTUAL ANALYSIS OF THE IMPLICATIONS OF BLACK FATHERS’ LIFESTYLES AND THEIR INVOLVEMENT IN THEIR CHILDREN’S EARLY DEVELOPMENT.pdf" download="./OKEKE PUBLICATIONS/CONCEPTUAL ANALYSIS OF THE IMPLICATIONS OF BLACK FATHERS’ LIFESTYLES AND THEIR INVOLVEMENT IN THEIR CHILDREN’S EARLY DEVELOPMENT.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 22,
-        date:`2022 22`,
+        date:`2022 `,
         title: `Akobi, T.O., & Okeke, C.I. `,
         body: `  Effect of edutainment videos on literacy skills
         acquisition among preschool children. Implications for updating children's audiovisual library. Library Philosophy and Practice (e-journal), 7460.
          <a href="https://digitalcommons.unl.edu/libphilprac/7460" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/EFFECT OF EDUTAINMENT VIDEOS ON LITERACY SKILLS ACQUISITION AMONG PRESCHOOL CHILDREN.pdf" download="./OKEKE PUBLICATIONS/EFFECT OF EDUTAINMENT VIDEOS ON LITERACY SKILLS ACQUISITION AMONG PRESCHOOL CHILDREN.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 23,
@@ -242,13 +242,13 @@ const journal = [
     },
     {
         id: 26,
-        date:`2022 26`,
+        date:`2022 `,
         title: `Okeke, C.I.O., & Akobi, T.O. `,
         body: ` Effect of cooperative learning instructional
         strategy on social and cognitive skills development of primary school pupils.
         International Journal of Early Childhood Special Education (INT-JECSE), 14(6):
         2630-2639.  <a href="https://10.9756/INTJECSE/V14I6.335 " class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Effect of Cooperative Learning Instructional Strategy on Social and Cognitive Skills Development of Primary School Pupils.pdf" download="./OKEKE PUBLICATIONS/Effect of Cooperative Learning Instructional Strategy on Social and Cognitive Skills Development of Primary School Pupils.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 27,
@@ -310,22 +310,22 @@ const journal = [
     },
     {
         id: 33,
-        date:`2022 33`,
+        date:`2022 `,
         title: `Odo, E.O., Okeke, C.I.O., & Edeh, M.O.`,
         body: `  Elevated blood triglycerides respond
         to brisk walking and jogging exercise after exercise counselling: Implication for
         practice in primary education. Webology, 19(3): 2952-2960.  <a href="http://www.webology.org/ " class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Elevated Blood Triglycerides Respond To Brisk Walking And Jogging Exercise After Exercise Counseling.pdf" download="./OKEKE PUBLICATIONS/Elevated Blood Triglycerides Respond To Brisk Walking And Jogging Exercise After Exercise Counseling.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 34,
-        date:`2022 34`,
+        date:`2022 `,
         title: `Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: `  Evaluating preschool librarians’ utilisation of
         information and communication technology for virtual library services. Library
         Philosophy and Practice (e-journal). 1-13. 7156.
           <a href="https://digitalcommons.unl.edu/libphilprac/7156" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Evaluating Preschool Librarians Utilisation of Information and Communication Technology for Virtual Library Services.pdf" download="./OKEKE PUBLICATIONS/Evaluating Preschool Librarians Utilisation of Information and Communication Technology for Virtual Library Services.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 35,
@@ -340,22 +340,22 @@ const journal = [
     },
     {
         id: 36,
-        date:`2022 36`,
+        date:`2022 `,
         title: `Okeke, C.C., Okeke, C.I.O., & Ugwuanyi, C.S. `,
         body: ` Demographic determinants of
         work deviant behaviors of rural community‑based primary school teachers: A structural equation modeling approach. Journal of Community Psychology, 1–14.
         DOI: 10.1002/jcop.22895`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Demographic determinants of work deviant behaviors of rural community‐based primary school teachers.pdf" download="./OKEKE PUBLICATIONS/Demographic determinants of work deviant behaviors of rural community‐based primary school teachers.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 37,
-        date:`2022 37`,
+        date:`2022`,
         title: `Ugwuanyi, C.S., Aye, E.N. & Okeke, C.I.O. `,
         body: `  Evaluating preschool librarians’
         information and communication technology competency level for online teaching.
         Library Philosophy and Practice (e-journal). 1-13.
           <a href="https://digitalcommons.unl.edu/libphilprac/7071" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Evaluating Preschool Librarians Information and Communication Technology Competency Level for Online Teaching.pdf" download="./OKEKE PUBLICATIONS/Evaluating Preschool Librarians Information and Communication Technology Competency Level for Online Teaching.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 38,
@@ -377,21 +377,21 @@ const journal = [
     },
     {
         id: 40,
-        date:`2022 40`,
+        date:`2022 `,
         title: `Edeh, M.O., Aye, E.N., & Okeke, C.I. `,
         body: ` Assessment of psychosocial work
         hazards and workplace deviant behaviours of teachers in rural community‑based
         schools. Journal of Community Psychology, 1–17. DOI: 10.1002/jcop.22848 `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Assessment of psychosocial work hazards and workplace deviant behaviours of teachers.pdf" download="./OKEKE PUBLICATIONS/Assessment of psychosocial work hazards and workplace deviant behaviours of teachers.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 41,
-        date:`2022 41`,
+        date:`2022 `,
         title: `Ugwuanyi, C.S., Okeke, C.C., & Okeke, C.I. `,
         body: ` Structural equation modeling of
         the influence of primary school teachers' demographics on their psychosocial work
         hazards. Journal of Community Psychology, 1–17. DOI: 10.1002/jcop.22857 `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/IMPACT OF PRIMARY SCHOOL TEACHERS  DEMOGRAPHICS ON THEIR PSYCHOSOCIAL WORK HAZARDS.pdf" download="./OKEKE PUBLICATIONS/IMPACT OF PRIMARY SCHOOL TEACHERS  DEMOGRAPHICS ON THEIR PSYCHOSOCIAL WORK HAZARDS.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 42,
@@ -405,12 +405,12 @@ const journal = [
     },
     {
         id: 43,
-        date:`2022 43`,
+        date:`2022`,
         title: `Okeke, C.C., Ifelunni, C.O., Ngwoke, A.N., Ugwu, G.C., Aye, E.N., Okeke, C.I.O.,
         Ekeanyanwu, N.T., & Ugwuanyi, C.S. `,
         body: `  Assessment of preschool librarians’ library disciplining strategies for effective use of preschool library. Library Philosophy
         and Practice (e-journal). 6674.   <a href="https://digitalcommons.unl.edu/libphilprac/6674" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Assessment of Preschool Librarians Library Disciplining Strategies for Effective Use of Preschool Library.pdf" download="./OKEKE PUBLICATIONS/Assessment of Preschool Librarians Library Disciplining Strategies for Effective Use of Preschool Library.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 44,
@@ -424,13 +424,13 @@ const journal = [
     },
     {
         id: 45,
-        date:`2021 45`,
+        date:`2021 `,
         title: `Ogbuanya, T.C., Okeke, C.I.O., & Hassan, A.M. `,
         body: `  Effects of challenge-based
         and activity-based learning approaches on technical college students’ achievement,
         interest and retention in woodwork technology. International Journal of Research in
         Business & Social Science, 10(7), 330-341`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Effects of challenge-based and activity-based learning approaches on technical college students achievement.pdf" download="./OKEKE PUBLICATIONS/Effects of challenge-based and activity-based learning approaches on technical college students achievement.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 46,
@@ -450,55 +450,55 @@ const journal = [
         caregivers' knowledge and control of helminthiasis in preschool children in a rural
         community of Enugu state, Nigeria. Journal of Community Psychology, 1-11.
           <a href="https://doi.org/10.1002/jcop.22727" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Household caregivers knowledge and control of helminthiasis in preschool children in a rural community of Enugu state, Nigeria.pdf" download="./OKEKE PUBLICATIONS/Household caregivers knowledge and control of helminthiasis in preschool children in a rural community of Enugu state, Nigeria.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 48,
-        date:`2021 48`,
+        date:`2021 `,
         title: `Ede, M.O., Okeke, C.I., & Chukwu, C.L. `,
         body: `  Assessing the efficacy of rational
         emotive behavior intervention for visually impaired upper basic school children with
         negative self‑belief/personal value system. Journal of Rational-Emotive & CognitiveBehavior Therapy,   <a href="https://doi.org/10.1007/s10942-021-00419-x" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Assessing the Efficacy of Rational Emotive Behavior Intervention for Visually Impaired Upper Basic School.pdf" download="./OKEKE PUBLICATIONS/Assessing the Efficacy of Rational Emotive Behavior Intervention for Visually Impaired Upper Basic School.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 49,
-        date:`2021 49`,
+        date:`2021 `,
         title: `Mbonu-Adigwe, B.U., Umate, B.A., Onu, W.O., Ezugwu, I.J., Okebanama, C.I.,
         Okoye, M.N., Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: `  Assessment of awareness
         level of e-learning classroom strategies of university lecturers: Implication for evaluation of library and information science resources. Library Philosophy and
         Practice (e-journal). 6155.   <a href="https://digitalcommons.unl.edu/libphilprac/6155" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Assessment of Awareness Level of e-Learning Classroom Strategies of University Lecturers.pdf" download="./OKEKE PUBLICATIONS/Assessment of Awareness Level of e-Learning Classroom Strategies of University Lecturers.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 50,
-        date:`2021 50`,
+        date:`2021 `,
         title: `Okeke, C.I.O., & Salami, I. `,
         body: `  How university students in South Africa perceive
         their fathers’ roles in their educational development. South African Journal of Higher
         Education, 35(4): 253-271.   <a href="https://dx.doi.org/10.20853/35-4-4244" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/HOW UNIVERSITY STUDENTS IN SOUTH AFRICA PERCEIVE THEIR FATHERS ROLES IN THEIR EDUCATIONAL DEVELOPMENT.pdf" download="./OKEKE PUBLICATIONS/HOW UNIVERSITY STUDENTS IN SOUTH AFRICA PERCEIVE THEIR FATHERS ROLES IN THEIR EDUCATIONAL DEVELOPMENT.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 51,
-        date:`2021 51`,
+        date:`2021 `,
         title: `Ogbuanya, T.C., Okeke, C.I.O., & Jarumai, C.T. `,
         body: ` Effect of simulation using
         matlab on achievement of electronic technology education students in Nigerian
         universities. Journal of Critical Reviews, 8(3): 374-390. DOI: 10.31838/jcr.08.03.41 `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/EFFECT OF SIMULATION USING MATLAB ON ACHIEVEMENT OF ELECTRONIC TECHNOLOGY.pdf" download="./OKEKE PUBLICATIONS/EFFECT OF SIMULATION USING MATLAB ON ACHIEVEMENT OF ELECTRONIC TECHNOLOGY.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 52,
-        date:`2021 52`,
+        date:`2021`,
         title: `Ede, M.O., Agah J.J., Okeke, C.I., Chuks, Z.O., Oguguo, B.C., Agu, P.U., Ene, C.U.,
         Ekesionye, N.E., Nji, I.A., Eze, C., & Manafa I.F. `,
         body: ` . Effect of cognitive
         behavioral active engagement training on test item construction skills among primary
         school teachers in Nigeria: Implication for educational policy makers. Medicine, 100:
         36 (e26876). DOI: 10.1097/MD.0000000000026876`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Effect of cognitive behavioral active engagement training on test item construction skills among.pdf" download="./OKEKE PUBLICATIONS/Effect of cognitive behavioral active engagement training on test item construction skills among.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 53,
@@ -523,23 +523,23 @@ const journal = [
     },
     {
         id: 55,
-        date:`2021 55`,
+        date:`2021 `,
         title: `Dube, B., & Okeke, C.`,
         body: `  Bricolising retired teachers in South Africa:
         Challenges and opportunities. Journal of Sociology & Social Anthropology, 12(1-2):
         41-48.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Bricolising Retired Teachers in South Africa Challenges and Opportunities.pdf" download="./OKEKE PUBLICATIONS/Bricolising Retired Teachers in South Africa Challenges and Opportunities.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 56,
-        date:`2021 56`,
+        date:`2021 `,
         title: `Ugwu, G.C., Ugwuanyi, C.S., & Okeke, C. I.O., Uzodinma, E.U., & Aneke, A.O.
         `,
         body: ` Efficacy of rational emotive behavior therapy on depression among children
         with learning disabilities: Implications for evaluation in science teaching. Journal of
         Rational-Emotive & Cognitive-Behavior Therapy, <a href=" https://doi.org/10.1007/s10942-021-
         00417-z" class="text-primary">DOI</a> `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Efficacy of Rational Emotive Behavior Therapy on Depression Among Children with Learning Disabilities.pdf" download="./OKEKE PUBLICATIONS/Efficacy of Rational Emotive Behavior Therapy on Depression Among Children with Learning Disabilities.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 57,
@@ -665,13 +665,13 @@ const journal = [
     },
     {
         id: 69,
-        date:`2021 69`,
+        date:`2021 `,
         title: `Ntseto, R.M., Kgothule, R.J., Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: `  Exploring the
         Impediments to the Implementation of Policy of Screening, Identification, Assessment
         and Support in Schools: Implications for educational evaluators. Journal of Critical
         Reviews, 8(2), 1383-1392.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Exploring the Impediments to the Implementation of Policy of Screening, Identification, Assessment and Support in Schools.pdf" download="./OKEKE PUBLICATIONS/Exploring the Impediments to the Implementation of Policy of Screening, Identification, Assessment and Support in Schools.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 70,
@@ -684,13 +684,13 @@ const journal = [
     },
     {
         id: 71,
-        date:`2021 71`,
+        date:`2021 `,
         title: `Adonu, C.J., Nwagbo, C.R., Ugwuanyi, C.S, & Okeke, C.I.O. `,
         body: ` Improving
         students’ achievement and retention in biology using flipped classroom and
         PowerPoint Instructional Approaches: Implication for Physics Teaching. International
         Journal of Psychosocial Rehabilitation, 25(02), 234-247. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/EFFECT OF FLIPPED CLASSROOM ON COGNITIVE AND EMOTIONAL SKILLS DEVELOPMENT OF PRIMARY SCHOOL PUPILS.pdf" download="./OKEKE PUBLICATIONS/EFFECT OF FLIPPED CLASSROOM ON COGNITIVE AND EMOTIONAL SKILLS DEVELOPMENT OF PRIMARY SCHOOL PUPILS.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 72,
@@ -765,23 +765,23 @@ const journal = [
     },
     {
         id: 79,
-        date:`2021 79`,
+        date:`2021 `,
         title: `Odo, I.O., Agwagah, U.N.V., Ugwuanyi, C.C., Shiaki, O.B., Nwoye, M.N., Emeji, E.I.,
         Okeke, A.M., Osakwe, I.J., Okeke, C.I.O., & Ugwuanyi, S.C. `,
         body: `  Effectiveness of
         first principles of instruction in promoting high achievement of students in
         mathematics: Implications for physics teaching. Journal of Critical Reviews, 8(2),
         119-128.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Effectiveness of First Principles of Instruction in Promoting high Achievement of students in Mathematics.pdf" download="./OKEKE PUBLICATIONS/Effectiveness of First Principles of Instruction in Promoting high Achievement of students in Mathematics.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 80,
-        date:`2021 80`,
+        date:`2021 `,
         title: `Ugwuanyi, C.S., Adie, I.I., Okeke, C.I.O., & Nnadi, E.M. `,
         body: `  Appraisal of the
         implementation of the universal basic education programme in Ogoja Education Zone:
         Implication for curriculum implementation. Journal of Critical Reviews, 8(2), 106-118.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Appraisal of the Implementation of the Universal Basic Education Programme in Ogoja Education Zone.pdf" download="./OKEKE PUBLICATIONS/Appraisal of the Implementation of the Universal Basic Education Programme in Ogoja Education Zone.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 81,
@@ -795,14 +795,14 @@ const journal = [
     },
     {
         id: 82,
-        date:`2021 82`,
+        date:`2021 `,
         title: `Adene, F.M., Umeano, E.C., Adimora, D.E., Ugwuanyi, C.S., Okeke, C.I.O., Offodile,
         E.E., Amaeze, F.E., Uzodinma, U.E., Abdullahi, Y., Ejiofor, J.N., & Ishiwu, E.N.
         `,
         body: ` Effectiveness of peer collaborative learning strategy on self-esteem of pupils
         with behaviour problems in Nsukka education authority. Journal of Critical Reviews,
         8(1), 1055-1069. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Effectiveness of Peer Collaborative Learning Strategy on Self-Esteem of Pupils With Behaviour Problems in Nsukka Education Authority.pdf" download="./OKEKE PUBLICATIONS/Effectiveness of Peer Collaborative Learning Strategy on Self-Esteem of Pupils With Behaviour Problems in Nsukka Education Authority.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 83,
@@ -816,27 +816,27 @@ const journal = [
     },
     {
         id: 84,
-        date:`2021 84`,
+        date:`2021`,
         title: `Baloyi-Mothibeli, S.L.; Ugwuanyi, C.S. & Okeke, C.I.O `,
         body: `  Exploring Grade R
         teachers’ mathematics curriculum practices and strategies for improvement:
         Implications for physics teaching. Cypriot Journal of Educational Science, 16(1), 238-
         250.  <a href="https://doi.org/10.18844/cjes.v16i1.5523" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Exploring Grade R teachers  mathematics curriculum practices and strategies for improvement- Implications for physics teaching.pdf" download="./OKEKE PUBLICATIONS/Exploring Grade R teachers  mathematics curriculum practices and strategies for improvement- Implications for physics teaching.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 85,
-        date:`2021 85`,
+        date:`2021 `,
         title: `Ugwuanyi, C.S., Ene, C.U., Okeke, C.I.O., Eze, U.U, Okeke, A.O., & Ikeh, F.E.
         `,
         body: `  Factorial Validation of Children's Depression Inventory in Primary Schools in
         Nigeria. International Medical Journal, 28(1), 12 – 15. Website: https://www.imj-
         1994.com/ Scimago IF = .15.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Factorial Validation of Children's Depression Inventory in Primary Schools in Nigeria.pdf" download="./OKEKE PUBLICATIONS/Factorial Validation of Children's Depression Inventory in Primary Schools in Nigeria.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 86,
-        date:`2021 86`,
+        date:`2021`,
         title: `Ene, C.U., Ugwuanyi, C.S., Okeke, C.I.O., Nworgu, B.G., Okeke, A.O., Agah,
         JJ., Oguguo, B.C., Ikeh, F.E., Eze, K.O., Ugwu, F.C., Agugoesi, O.J., Nnadi, E.M.,
         Eze, U.N., Ngwoke, D.U., & Ekwueme, U.H. `,
@@ -844,7 +844,7 @@ const journal = [
         Self-Efficacy Scale using Pre-Service Teachers: Implications for Teacher Education
         Curriculum. International Journal of Higher Education, 10(1).
          <a href="https://doi.org/10.5430/ijhe.v10n1p113" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Factorial Validation of Teachers Self-Efficacy Scale using Pre-Service Teachers.pdf" download="./OKEKE PUBLICATIONS/Factorial Validation of Teachers Self-Efficacy Scale using Pre-Service Teachers.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 87,
@@ -859,7 +859,7 @@ const journal = [
     },
     {
         id: 88,
-        date:`2020 88`,
+        date:`2020`,
         title: `<small>Ugwuanyi, C.S., Okeke, C.I.O., Agboeze, M.U., Igwe, N.J., Eya, N.M.,
         Ejimonye, J.C., Oguguo, B.C., Ene, C.U., Chukwu, C.L., Obiozor, E.E., Agboeze,
         M.N., Nwachukwu, R.U., Koledoye, U.L., Ibenegbu, Q.O., Ikeh, F.E., Sampson, M.,
@@ -869,22 +869,22 @@ const journal = [
         and distance learning centres and its implications for community development: a
         randomized trial group. Medicine, 99:41(e22677).
          <a href="http://dx.doi.org/10.1097/MD.0000000000022677" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Impacts of cognitive behavior therapy on occupational stress among science and social.pdf" download="./OKEKE PUBLICATIONS/Impacts of cognitive behavior therapy on occupational stress among science and social.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 89,
-        date:`2020 89`,
+        date:`2020 `,
         title: `Agboeze, M.U., Ugwuanyi, C.S., Okeke, C.I., Ugwu, G.C., Obikwelu, C.L.,
         Obiozor, E.E., Oyigbo, D.N., & Mbam, D. `,
         body: `  Efficacy of music-based cognitive
         behavior therapy on the management of test-taking behavior of children in basic
         science using a randomized trial group: Implication for community development.
         Medicine, 99(34) (e21535).  <a href="http://dx.doi.org/10.1097/MD.0000000000021535" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Efﬁcacy of music-based cognitive behavior therapy on the management of test-taking behavior.pdf" download="./OKEKE PUBLICATIONS/Efﬁcacy of music-based cognitive behavior therapy on the management of test-taking behavior.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 90,
-        date:`2020 90`,
+        date:`2020`,
         title: ` Abiogu, G.C., Ede, M.O., Agah, J.J., Ugwuozor, F.O., Nweke, M., Nwosu, N.,
         Nnamani, O., Eskay, M., Obande-Ogbuinya, N.E., Ogheneakoke, C.E., Ugwu, U.C.,
         Ujah, P., Ekwueme, F.O., Phil, M., Obeagu, E.I., Okeke, C.I., Ncheke, D.C.,
@@ -892,38 +892,38 @@ const journal = [
         body: ` Cognitive-behavioural reflective training for improving critical
         thinking disposition of nursing students. Medicine, 99:46(e22429).
          <a href="http://dx.doi.org/10.1097/MD.0000000000022429" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Cognitive-behavioural reﬂective training for improving critical thinking disposition of nursing students.pdf" download="./OKEKE PUBLICATIONS/Cognitive-behavioural reﬂective training for improving critical thinking disposition of nursing students.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 91,
-        date:`2020 91`,
+        date:`2020 `,
         title: `Umoke, P.C.I., Umoke, M., Ugwuanyi, C.S., Okeke, C.I.O., Eseadi, C.,
         Onuorah, A.R., Ugwu, G.C., Obiweluozo, P.E., Uzodinma, U.E., Uwakwe, R.C., Uba,
         M.B.I., Ebizie, E.N., Onyeke, N.G., & Otu, M.S. `,
         body: `  Bullying experience of pupils
         in Nigerian primary schools. Medicine, 99 (39), e22409.
          <a href="http://dx.doi.org/10.1097/MD.0000000000022409" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Bullying experience of pupils in Nigerian primary schools.pdf" download="./OKEKE PUBLICATIONS/Bullying experience of pupils in Nigerian primary schools.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 92,
-        date:`2020 92`,
+        date:`2020 `,
         title: `Ugwuanyi, C. S., & Okeke, C. I. O. `,
         body: ` Enhancing University Students ’
         Achievement in Physics using Computer-Assisted Instruction. International Journal of
         Higher Education 9(5), 115–124.  <a href="https://doi.org/10.5430/ijhe.v9n5p115" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Enhancing University Students Achievement in Physics using Computer-Assisted Instruction.pdf" download="./OKEKE PUBLICATIONS/Enhancing University Students Achievement in Physics using Computer-Assisted Instruction.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 93,
-        date:`2020 93`,
+        date:`2020 `,
         title: `Ugwuanyi, C.S. & Okeke, C.I.O. `,
         body: ` Determinants of University students’
         interest in Science, Technology, Engineering and Mathematics Education in Nigeria:
         A case of a structural equation modelling. International Journal of Mechanical and
         Production Engineering Research and Development, 10(3): 6209–6218.
          <a href="http://dx.doi.org/10.24247/ijmperdjun2020590" class="text-primary">DOI</a> `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/DETERMINANTS OF UNIVERSITY STUDENTS’ INTEREST IN SCIENCE TECHNOLOGY.pdf" download="./OKEKE PUBLICATIONS/DETERMINANTS OF UNIVERSITY STUDENTS’ INTEREST IN SCIENCE TECHNOLOGY.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 94,
@@ -971,7 +971,7 @@ const journal = [
     },
     {
         id: 98,
-        date:`2020 98`,
+        date:`2020 `,
         title: `Onah, E.N., Ugwuanyi, C.S., Okeke, C.I.O., Nworgu, B.G., Agwagah, U.V.N.,
         Ugwuanyi, C.C., Obe, P.I., Nwoye, M. N., & Okeke, A.O. `,
         body: ` Evaluation of the
@@ -979,7 +979,7 @@ const journal = [
         Achievement: Implication for Industrial Technical Education. International Journal of
         Engineering Research and Technology, 13(7): 1786-1794.
         <a href="http://irphouse.com/ijert20/ijertv13n7_35.pdf" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Evaluation of the Impact of Computer-Assisted Instruction on Mathematics and Physics Students.pdf" download="./OKEKE PUBLICATIONS/Evaluation of the Impact of Computer-Assisted Instruction on Mathematics and Physics Students.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 99,
@@ -1012,13 +1012,13 @@ const journal = [
     },
     {
         id: 102,
-        date:`2020 102`,
+        date:`2020 `,
         title: `Ugwuanyi, C. S., & Okeke, C. I.O. `,
         body: `  A Multimedia Instructional Package
         on for Enhancing Achievement in basic Science. International Journal of Advanced
         Science and Technology (IJAST), 136:51-60.
          <a href="https://doi.org/10.33832/ijast.2020.136.05" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/A MULTIMEDIA INSTRUCTIONAL PACKAGE ON FOR ENHANCING ACHIEVEMENT IN BASIC SCIENCE.pdf" download="./OKEKE PUBLICATIONS/A MULTIMEDIA INSTRUCTIONAL PACKAGE ON FOR ENHANCING ACHIEVEMENT IN BASIC SCIENCE.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 103,
@@ -1077,14 +1077,14 @@ const journal = [
     },
     {
         id: 108,
-        date:`2020 108`,
+        date:`2020`,
         title: `Eze, K.O., Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: ` Extent of the Upper Basic
         Education French Language Curriculum Content-Delivery with Technologies in
         Nigerian Secondary Schools. International Journal of Mechanical and Production
         Engineering Research and Development (IJMPERD), 10(4): 311-318.
          <a href="https://doi.org/10.24247/ijmperdaug202027" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/EXTENT OF THE UPPER BASIC EDUCATION FRENCH LANGUAGE.pdf" download="./OKEKE PUBLICATIONS/EXTENT OF THE UPPER BASIC EDUCATION FRENCH LANGUAGE.pdf" class="custom-btn btn">Download</a>`
     },
     {
         id: 109,

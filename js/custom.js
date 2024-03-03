@@ -34,6 +34,7 @@
 
 
   // javascript
+  // gallery
 
   document.querySelector(".date").innerHTML = new Date().getFullYear()
 
@@ -47,3 +48,10 @@ function openImg(pic) {
 function closeImg(pic) {
   full_Imags.style.display = "none"
 } 
+
+
+
+
+
+
+

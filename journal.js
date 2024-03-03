@@ -3,40 +3,40 @@
 const journal = [
     {
         id: 1,
-        date:`2024 1 `,
+        date:`2024  `,
         title: `Okeke, C.I., & Akobi, T.O. `,
         body: ` Challenges in the provision of early childhood care
         and education in rural areas in Gboko, Benue State, Nigeria. Webology, 21 (1), 38-50.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
      {
         id: 2,
-        date:`2023 December 2`,
+        date:`2023 December `,
         title: `Okeke, C., Mudzielwana, N., & Mokhele-Makgalwa, M. `,
         body: ` 
         Practitioners’ professional development needs from a sustainability perspective: The
         impact of some demographic features. Journal of Teacher Education for
         Sustainability, 25(2)`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 3,
-        date:`2023 3`,
+        date:`2023 `,
         title: `Okeke, C.I., & Ajadi, O.T. `,
         body: `  Instructional materials and quality in public primary
         schools in Southwestern Nigeria. Studies in Learning and Teaching (SiLeT), 4(2),
         205-215. <a href="https://doi.org/10.46627/silet" class="text-primary">DOI</a>
         `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 4,
-        date:`2023 4`,
+        date:`2023 `,
         title: `Akobi, T.O. Okeke, C.I.O.  `,
         body: ` Parents’ socio-economic status as a predictor of
         children’s Self-concept in Nsukka, Enugu State, Nigeria. Journal of Educational
         Studies, 22(1), 121-136. <a href="https://doi.org/10.10520/ejc-jeds_v22_n1_a8" class="text-primary">DOI</a> `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 5,
@@ -50,12 +50,12 @@ const journal = [
     },
     {
         id: 6,
-        date:`2023 6`,
+        date:`2023 `,
         title: `Ede, M.O., Okeke, C.I., Oneli, J.O. `,
         body: `  Raising the self-esteem and reducing
         irrational beliefs of schoolchildren: The moderating and main effect study. Medicine,
         102:27(e34168).   <a href="http://dx.doi.org/10.1097/MD.0000000000034168" class="text-primary">DOI</a>` ,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 7,
@@ -69,23 +69,23 @@ const journal = [
     },
     {
         id: 8,
-        date:`2023 8`,
+        date:`2023 `,
         title: `Ede, M.O., & Okeke, C.I. `,
         body: `  Prevalence of suicidal behavioural experiences in
         the university: Implications for childhood development. The Open Public Health
         Journal, 16(1): 1-7.  <a href="http://dx.doi.org/10.2174/18749445-v16-e230418-2022-HT21-
         4315-1 " class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id:9,
-        date:`2023  9`,
+        date:`2023  `,
         title: `Gqoli, N., Okeke, C. I. O., & Ugwuanyi, C. S.`,
         body: `Practitioners’ use of
         conceptions of mathematical knowledge to enhance early mathematics: A qualitative
         research approach. European Journal of Science and Mathematics Education, 11(1):
         123-131.   <a href="https://doi.org/10.30935/scimath/12482" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 10,
@@ -107,22 +107,22 @@ const journal = [
     },
     {
         id: 12,
-        date:`2023 12`,
+        date:`2023 `,
         title: `Egenti, N.T., Ede, M.O., Okeke, C.I., & Oneli, J.O. `,
         body: ` Intervention for modifying
         risk level of hypersexual behaviors among male parents with sexual offending history.
         Medicine, 102:12(e33401). 1-6. http://dx.doi.org/10.1097/MD.0000000000033401`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 13,
-        date:`2023 13`,
+        date:`2023 `,
         title: `Ogakwu, N.V., Ede, M.O., Manafa, I.F., Okeke, C.I., & Onah, S.O. `,
         body: ` Quality of
         work‑life and stress management in a rural sample of primary school teachers: An
         intervention study. Journal of Rational-Emotive & Cognitive-Behavior Therapy, 1-27.
           <a href="https://doi.org/10.1007/s10942-022-00494-8" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 14,
@@ -146,22 +146,22 @@ const journal = [
     },
     {
         id: 16,
-        date:`2023 16`,
+        date:`2023 `,
         title: `Ede, M.O., Okeke, C.I., Igbo, J.N. & Aye, E `,
         body: ` Testing the efficacy of group
         cognitive-behavioral therapy for pathological internet use among undergraduates in
         Nigeria. Trends Psychiatry Psychother, 45: 1-12 `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 17,
-        date:`2023 17`,
+        date:`2023 `,
         title: `Ndlovu, B., Okeke, C., Nhase, Z., Ugwuanyi, C., Okeke, C. & Ede, M. `,
         body: `  Impact
         of play-based learning on the development of children in mobile early childhood care
         and education centres: Practitioners’ perspectives. International Journal of Research
         in Business and Social Science, 12(3), 432-440`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 18,
@@ -185,13 +185,13 @@ const journal = [
     },
     {
         id: 20,
-        date:`2022 20`,
+        date:`2022 `,
         title: `Okeke, C. I., Ede, M. O., & Maba, A.P. `,
         body: `  Prevalence, socio-demographic
         factors and psychosocial work hazards of primary school teachers: A school-based
         cross-sectional study. Couns-Edu: International Journal of Counseling and Education,
         7(2).   <a href="https://doi.org/10.1007/0020220740430" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 21,
@@ -213,32 +213,32 @@ const journal = [
     },
     {
         id: 23,
-        date:`2022 23`,
+        date:`2022 `,
         title: `Ogbeche, A. T., Aye, E. N. & Okeke, C. I. `,
         body: ` Teachers’ classroom management
         practices as a determinant of pre-schoolers’ task persistence. Implication for early
         childhood development. Cypriot Journal of Educational Science, 17(9): 3503-3515.
         https://doi.org/10.18844/cjes.v17i9.7264 `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 24,
-        date:`2022 24`,
+        date:`2022 `,
         title: `Ede, M.O. & Okeke, C. I. `,
         body: ` Testing the impacts of rational-emotive couple
         intervention in a sample of parents seeking divorce. Psychological Reports, 0(0) 1–
         26.   <a href="https://doi.org/10.1177/00332941221139994 " class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 25,
-        date:`2022 25`,
+        date:`2022 `,
         title: `Gqoli, N., Okeke, C. I. O., & Ugwuanyi, C. S. `,
         body: `  Practitioners’ challenges in the
         application of conceptions of mathematical knowledge in the foundation phase
         mathematics learning. International Journal of Research in Business and Social
         Science, 11(8): 360-366.  <a href="https://doi.org/10.20525/ijrbs.v11i8.2053 " class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 26,
@@ -252,61 +252,61 @@ const journal = [
     },
     {
         id: 27,
-        date:`2002 27`,
+        date:`2002 `,
         title: `Okeke, C.I.O., & Akobi, T.O. `,
         body: `  Work stress and gender as determinants of job
         satisfaction among early childhood educators in Cross River State, Nigeria.
         International Journal of Research in Business and Social Science, 11(7): 92-99.
           <a href="https://doi.org/10.20525/ijrbs.v11i7.2022" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 28,
-        date:`2022 28`,
+        date:`2022 `,
         title: `Gqoli, N., Okeke, C. I. O., & Ugwuanyi, C. S. `,
         body: `  Practitioners’ use of
         conceptions of mathematical knowledge to enhance early mathematics: A qualitative
         research approach. European Journal of Science and Mathematics Education, 11(1),
         123-131.   <a href="https://doi.org/10.30935/scimath/12482" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 29,
-        date:`2022 29`,
+        date:`2022 `,
         title: `Ifelunni, C.O., Edeh, M.O., & Okeke, C.I.O. `,
         body: `  Rational emotive intervention for
         work-family conflict and female primary school teachers’ well-being. Current
         Psychology, 1-14.   <a href="https://doi.org/10.1007/s12144-022-03704-9traditional" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 30,
-        date:`2022 30`,
+        date:`2022 `,
         title: `Edeh, M.O., & Okeke, C.I.O. `,
         body: `  Intervention for treating depression in parents of
         children with intellectual disability of Down syndrome: A sample of Nigerian Parents. Journal of Rational-Emotive & Cognitive-Behavior Therapy, 1-25.
           <a href="https://doi.org/10.1007/s10942-022-00471-1" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 31,
-        date:`2022 31`,
+        date:`2022 `,
         title: ` Odo, E.O., Edeh, M.O., & Okeke, C.I.O. `,
         body: ` Library information needs of parents
         of children who are career workers in academic libraries: Implication for policy and
         practice. Library Philosophy and Practice (e-journal), 1-21. 7180.
           <a href="https://digitalcommons.unl.edu/libphilprac/7180" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 32,
-        date:`2022 32`,
+        date:`2022 `,
         title: `Odo, E.O., Okeke, C.I.O., Edeh, M.O., & Emeahara, G.O. `,
         body: `Qualitative study of
         factors affecting inclusivity of physically disabled children in regular school physical
         activity in a Nigerian primary school. Webology, 19(3): 2961-2973.
           <a href="http://www.webology.org/" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 33,
@@ -329,14 +329,14 @@ const journal = [
     },
     {
         id: 35,
-        date:`2022 35`,
+        date:`2022 `,
         title: `Manafa, I.F., Okeke, C.I., Ede, M.O., & Ugwoezuonu, A.U. `,
         body: ` Management
         practices adopted by administrators of children library section of college of education
         for enhancing information and communication technology: Implication for policy and
         e-counselling. Library Philosophy and Practice (e-journal). 1-14. 7137.
           <a href="https://digitalcommons.unl.edu/libphilprac/7137" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 36,
@@ -359,21 +359,21 @@ const journal = [
     },
     {
         id: 38,
-        date:`2022 38`,
+        date:`2022 `,
         title: `Aye, E.N., Akobi, T.O., & Okeke, C.I. `,
         body: ` Effect of animated videos on
         preschoolers’ cognitive development in Benue State, Nigeria. Webology, 19(3): 391-
         402. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 39,
-        date:`2022 39`,
+        date:`2022 `,
         title: `Okeke, C.C., Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: `  Perspectives of university
         students on the impediments to fathers’ capabilities to actively participate in
         children’s early social development. Webology, 19(2): 9163-9179`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 40,
@@ -395,13 +395,13 @@ const journal = [
     },
     {
         id: 42,
-        date:`2022 42`,
+        date:`2022 `,
         title: `Ezema, M.J., Ugwuanyi, C.S., Okeke, C.I., & & Orji, E.I. `,
         body: ` Influence of
         cognitive ability on students’ conceptual change in particulate nature of matter in
         physics. Journal of Turkish Science Education, 19(1), 194-217. DOI no:
         10.36681/tused.2022.118 `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 43,
@@ -414,13 +414,13 @@ const journal = [
     },
     {
         id: 44,
-        date:`2022 44`,
+        date:`2022 `,
         title: `Ugwuanyi, C.S., Okeke, C.C., & Okeke, C.I.O. `,
         body: `  Influence of preschool
         librarians’ demographic characteristics on their library discipline practices: An ex-post
         facto research. Library Philosophy and Practice (e-journal). 6758.
           <a href="https://digitalcommons.unl.edu/libphilprac/6758" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 45,
@@ -434,23 +434,23 @@ const journal = [
     },
     {
         id: 46,
-        date:`2021 46`,
+        date:`2021 `,
         title: `Ede, M.O., Okeke, C.I., Adene, F., & Areji, A.C. `,
         body: `  Perceptions of work value
         and ethical practices amongst primary school teachers, demographics, intervention,
         and impact. Psychological Reports, 0(0): 1-31.
           <a href="http://dx.doi.org/10.1177/00332941211043453" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 47,
-        date:`2021 47`,
+        date:`2021 `,
         title: ` Ugwunna, N.C., Ede, M.O., Okeke, C.I., & Onuorah, A.R. `,
         body: ` Household
         caregivers' knowledge and control of helminthiasis in preschool children in a rural
         community of Enugu state, Nigeria. Journal of Community Psychology, 1-11.
           <a href="https://doi.org/10.1002/jcop.22727" class="text-primary">DOI</a>`,
-        download: `<a href="./OKEKE PUBLICATIONS/Household caregivers knowledge and control of helminthiasis in preschool children in a rural community of Enugu state, Nigeria.pdf" download="./OKEKE PUBLICATIONS/Household caregivers knowledge and control of helminthiasis in preschool children in a rural community of Enugu state, Nigeria.pdf" class="custom-btn btn">Download</a>`
+        download: `<a href="./OKEKE PUBLICATIONS/Household caregivers knowledge and control of helminthiasis in preschool children in a rural community of Enugu state, Nigeria.pdf" download="./OKEKE PUBLICATIONS/Household caregivers knowledge and control of helminthiasis in preschool children in a rural community of Enugu state, Nigeria.pdf" class="custom-btn btn ">Download</a>`
     },
     {
         id: 48,
@@ -502,24 +502,24 @@ const journal = [
     },
     {
         id: 53,
-        date:`2021 53`,
+        date:`2021 `,
         title: `Okeke, C.C., Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: `  Perceptions of university
         students of the challenges faced by children whose fathers are unable to participate
         in their early education: A Quantitative evaluation. International Journal of Current
         Research and Review, 13(17): 37-43.          <a href="http://dx.doi.org/10.31782/IJCRR.2021.131708" class="text-primary">DOI</a>
         `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 54,
-        date:`2021 54`,
+        date:`2021 `,
         title: `Ugwuanyi, C.S., Okeke, C.C., & Okeke, C.I.O. `,
         body: `  Information and
         communication technology tool and children’s achievement in Basic Science:
         Implication for evaluation of library and information resources. Library Philosophy and
         Practice (e-journal).  <a href="https://digitalcommons.unl.edu/libphilprac/6097/" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 55,
@@ -543,18 +543,18 @@ const journal = [
     },
     {
         id: 57,
-        date:`2021 57`,
+        date:`2021 `,
         title: `Ede, M.O., Umeano, C.E., Okeke, C.I., Chinweuba, N.H., Onah, S.O., & Nwakpadolu,
         G.M. `,
         body: `  Testing the efficacy of family health‑model of REBT on family values
         and quality of family life among parents of children with visual impairment. Journal of
         Rational-Emotive & Cognitive-Behavior Therapy,  <a href="https://doi.org/10.1007/s10942-021-
         00409-z" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 58,
-        date:`2021 58`,
+        date:`2021 `,
         title: `Agu, P.U., Chigbu, B.C., Ede, M.O., Okeke, C.I., Chinweuba, N.H., Amaeze, F.E.,
         Ejionueme,, L.K., Omeke, F., Aye, E., Edikpa, E.C., Onu, E.A., Nwafor, B., Ozioko, A.,
         Mezieobi, D., Oforka, T.O., Vita-Agundu, U.C., Uwakwe, S.I., Nweze, U.N., Onah,
@@ -562,106 +562,106 @@ const journal = [
         body: ` Rational emotive occupational health coaching
         for quality of work life among primary school administrators. Medicine, 100: 1-12
         (e26541) `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 59,
-        date:`2021 59`,
+        date:`2021 `,
         title: `Eze, K.O., Offorma, G.C., Ugwuanyi, C.S., & Okeke, C.I.O `,
         body: `  Pre-reading
         activities and students’ achievement in French oracy: Implication for evaluation in
         library and information science. Library Philosophy and Practice (e-journal). 5952.
         <a href="https://digitalcommons.unl.edu/libphilprac/5952" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 60,
-        date:`2021 60`,
+        date:`2021 `,
         title: `Amoke, C.V., Ede, M.O., Umeano, C.E., Okeke, C.I., Onah, S.O., Ezeah, M.A., &
         Nwaogaidu, J.C. `,
         body: `  Interaction effect of gender on academic procrastination and
         achievement orientation among in-school adolescents. International Journal of
         Higher Education, 10(6), 202-212. doi:10.5430/ijhe.v10n6p202; URL:
          <a href="https://doi.org/10.5430/ijhe.v10n6p202" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 61,
-        date:`2021 61`,
+        date:`2021 `,
         title: `Ugwuanyi, C.S., Okeke, C.I.O., & Ekwueme, C.H. `,
         body: `  Management of work
         stress in science education lecturers' population using rational emotive occupational
         health coaching: Implication for educational evaluators. Journal Community
         Psychology, 1–15.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 62,
-        date:`2021 62`,
+        date:`2021 `,
         title: `Ogbuanya, T.C., Okeke, C.I.O., & Ozoagu, F. `,
         body: `  Self-efficacy and
         entrepreneurial intentions of technical college electronics students in South-East
         Nigeria. Journal of Critical Reviews, 8(2), 1616-1628.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 63,
-        date:`2021 63`,
+        date:`2021 `,
         title: `Thwala, S.K., Okeke, C.I.O., Matse, Z. & Ugwuanyi, C.S. `,
         body: `  Teachers'
         perspectives on the implementation of teenage mothers' school re‑entry policy in
         Eswatini Kingdom: Implication for educational evaluators. Journal of Community
         Psychology, 1-12.  <a href="http://doi.org/10.1002/jcop.22656" class="text-primary">DOI</a> 
          <a href="https://authorservices.wiley.com/api/pdf/fullArticle/17148450" class="text-primary">authorservices</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 64,
-        date:`2021 64`,
+        date:`2021 `,
         title: `Nhase, Z., Okeke, C.I.O., & Ugwuanyi, C.S `,
         body: ` Using an inquiry-based approach
         to enhance grade 3 learners’ basic science concepts development. Cypriot Journal of
         Educational Science, 16(3), 1065-1072.  <a href="https://doi.org/10.18844/cjes.v16i3.5825" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 65,
-        date:`2021 65`,
+        date:`2021 `,
         title: `Ugwuanyi, C.S., Okeke, C.I.O., & Shawe, T.G.J. `,
         body: `  South African academics’
         perception of the impact of work from home (WFH) on effective teaching and learning
         in universities. Library Philosophy and Practice (e-journal). 5701.
          <a href="https://digitalcommons.unl.edu/libphilprac/5701" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 66,
-        date:`2021 66`,
+        date:`2021 `,
         title: `Okeke C.I., & Nyanhoto E. `,
         body: ` Recruitment and retention of male educators in
         preschools: Implications for teacher education policy and practices. South African
         Journal of Education, 41(2): Art. #1910. <a href="https://doi.org/10.15700/saje.v41n2a1910 " class="text-primary">DOI</a> `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 67,
-        date:`2021 67`,
+        date:`2021 `,
         title: `Edeh, M.O., Adene, F.M., Okeke, C.I., Mezieobi, D.I., Isiwu, E.N., & Abdullahi, Y.
         `,
         body: `  The effect of rational emotive behaviour therapy on post‑traumatic depression in flood victims. Journal of Rational-Emotive & Cognitive-Behavior
         Therapy,`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 68,
-        date:`2021 68`,
+        date:`2021 `,
         title: `Kgothule, R.J., Ntseto, R.M., Okeke, C.I.O., & Ugwuanyi, C.S. `,
         body: ` Perceived
         impact of professional development on teachers’ implementation of the policy on
         screening, identification, assessment and support in schools: Implication for research
         in engineering career. International Journal of Mechanical and Production
         Engineering Research and Development (IJMPERD), 11(4), 129-136. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 69,
@@ -675,12 +675,12 @@ const journal = [
     },
     {
         id: 70,
-        date:`2021 70`,
+        date:`2021 `,
         title: `Alade, I.A., & Okeke, C.I. `,
         body: ` Monetary and non-monetary incentives as
         correlates of teacher educators’ job performance in colleges of education in Oyo
         State of Nigeria. Journal of Critical Reviews, 8(2), 1031-1040. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 71,
@@ -694,21 +694,21 @@ const journal = [
     },
     {
         id: 72,
-        date:`2021 72`,
+        date:`2021 `,
         title: `Ugwuanyi, C.S., Mufutau, M.A., & Okeke, C.I.O.  `,
         body: `Perceptions of parents and
         teachers regarding policies related to fathers’ engagement in children’s early
         education. Asia-Pacific Journal of Research in Early Childhood Education, 15(2), 19-
         38. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 73,
-        date:`2021 73`,
+        date:`2021 `,
         title: `Thwala, S.K., Ugwuanyi, C.S., Okeke, C.I.O., & Ncamsile, N. `,
         body: ` Socioeconomic supports available for the education of adolescent girls in child-headed families in the Kingdom of Eswatini: Policy implication for educational evaluators.
         International Journal of Psychosocial Rehabilitation, 25(02), 30-41. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 74,
@@ -725,43 +725,43 @@ const journal = [
     },
     {
         id: 75,
-        date:` 2021 75`,
+        date:` 2021 `,
         title: `Agboeze, M.U., Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: `  Psychometric properties of
         Spence children’s anxiety scale in Nigerian primary schools: Implication for
         community development. International Journal of Psychosocial Rehabilitation, 25(01),
         564-574`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 76,
-        date:`2021 76`,
+        date:`2021 `,
         title: `Offordile, E.E., Umeano, E.C., Adene, F.M., Obi, M.C., Ugwuanyi, C.S., Okeke,
         C.I.O., & Adimora, D.E. `,
         body: `  Improving the academic achievement of low
         achieving secondary school students in physics using peer tutoring learning strategy:
         implications for engineering career. International Journal of Mechanical and
         Production Engineering Research and Development (IJMPERD), 11(3), 201-212.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 77,
-        date:`2021 77`,
+        date:`2021 `,
         title: ` Adonu, C.J., Nwagbo, C.R., Ugwuanyi, C.S., & Okeke, C.I.O. `,
         body: ` Improving
         Students’ Achievement and Retention in Biology using Flipped Classroom and
         PowerPoint Instructional Approaches Implication for Physics Teaching. International
         Journal of Psychosocial Rehabilitation, 25(02), 234-247.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 78,
-        date:`2021 78`,
+        date:`2021 `,
         title: `Alade, A., & Okeke, C.I.O. `,
         body: ` Monetary and non-monetary incentives as
         correlates of teacher educators’ job performance in colleges of education in Oyo
         State of Nigeria. Journal of Critical Reviews, 8(2), 1031-1040. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 79,
@@ -785,13 +785,13 @@ const journal = [
     },
     {
         id: 81,
-        date:`2021 81`,
+        date:`2021 `,
         title: `Okeke, C.I.O., Mufutau, M.A., & Ugwuanyi, C.S. `,
         body: `  School-based strategies and
         support mechanisms that will facilitate fathers’ involvement in children’s early
         learning: A quantitative research approach. International Journal of Mechanical and
         Production Engineering Research and Development (IJMPERD), 11(2), 373–382.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 82,
@@ -806,13 +806,13 @@ const journal = [
     },
     {
         id: 83,
-        date:`2021 82`,
+        date:`2021 `,
         title: `Ugwuanyi, C.S. & Okeke, C.I.O `,
         body: `  Influence of teacher variable on physics
         students’ achievement: A case of structural equation modelling. International Journal
         of Mechanical and Production Engineering Research and Development (IJMPERD),
         11(2), 75-88.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 84,
@@ -848,14 +848,14 @@ const journal = [
     },
     {
         id: 87,
-        date:`2020 87`,
+        date:`2020 `,
         title: `Ugwuanyi, C.S., Okeke, C.I.O., & Agboeze, M.U. `,
         body: ` Management
         of Test Anxiety Among Pupils in Basic Science Using Music- Based Cognitive
         Behavior Therapy Intervention: Implication for Community Development. Journal of
         Rational-Emotive & Cognitive-Behavior Therapy.  <a href="https://doi.org/10.1007/s10942-020-
         00371-2" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 88,
@@ -927,7 +927,7 @@ const journal = [
     },
     {
         id: 94,
-        date:`2020 94`,
+        date:`2020 `,
         title: `Ugwuanyi, C.S., & Okeke, C.I.O.`,
         body: `  Psychometric Properties of the Pain
         Self-Efficacy Questionnaire Using Nigerian University Students with Chronic Pain.
@@ -937,37 +937,37 @@ const journal = [
          +Self- Efficacy+Questionnaire+Using+Nigerian+University+Students+with+Chronic+P
          ain.+Indian+Journal+of+Public+Health+Research+%26+Development%2C+11+%28
          6&btnG=" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 95,
-        date:`2020 95`,
+        date:`2020 `,
         title: `Ugwuanyi, C. S., Okeke C. O., & Ageda T. A.`,
         body: ` Psychological
         predictors of physics learners’ achievement: The moderating influence of gender.
         Cypriot Journal of Educational Science. 15(4), 834-842. DOI:
         10.18844/cjes.v%vi%i.4635. URL: file:///C:/Users/2019875836/Downloads/4635-
         Article%20Text-21136-3-10-20200831.pdf `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 96,
-        date:`2020 96`,
+        date:`2020 `,
         title: `Ugwuanyi, C.S., Okeke, C.I.O., & Njeze, K.C. `,
         body: ` Parenting Style and
         Parental Support on Learners’ Academic Achievement. Journal of Sociology and
         Social Anthropology, 11(3-4): 198-205.<a href="https://doi.org/10.31901/24566764.2020/11.3-
         4.352" class="text-primary">DOI</a>  `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 97,
-        date:`2020 97`,
+        date:`2020 `,
         title: `Ugwuanyi, C.S., Okeke, C. I.O., & Ageda, T.A.`,
         body: ` Motivation and Selfefficacy as Predictors of Learners’ Academic Achievement. Journal of Sociology and
         Social Anthropology, 11(3-4): 215-222. <a href=" https://doi.org/10.31901/24566764.2020/11.3-
         4.351 " class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 98,
@@ -983,32 +983,32 @@ const journal = [
     },
     {
         id: 99,
-        date:`2020 99`,
+        date:`2020 `,
         title: ` Ejimonye, J.C., Ugwuanyi, C.S., Okeke, C.I.O. & Nwoye, M.N. `,
         body: ` TwoDimensional Animation and Students’ Achievement in Mathematical Economics:
         Implications for Science Teaching. International Journal of Engineering Research
         and Technology, 13(6), 1220-1230.
         <a href="http://www.irphouse.com/ijert20/ijertv13n6_20.pdf" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 100,
-        date:`2020 100`,
+        date:`2020 `,
         title: `Okeke, C.I.O., Ugwuanyi, C.S & Mufutau, M.A `,
         body: ` Stakeholders’ Views on
         Engaging Fathers in Early Childhood Care and Education. Journal of Human Ecology,
         71(1-3): 177-186.  <a href="https://doi.org/10.31901/24566608.2020/71.1-3.3233" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 101,
-        date:`2020 101`,
+        date:`2020 1`,
         title: `Ugwuanyi, C. S., Okeke, C.I.O. & Asomugha, C.G., `,
         body: ` Prediction of
         learners’ mathematics performance by their emotional intelligence, self-esteem, and
         self-efficacy. Cypriot Journal of Educational Sciences. 15(3), 492- 501.
          <a href="https://doi.org/10.18844/cjes.v%vi%i.4916" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 102,
@@ -1022,17 +1022,17 @@ const journal = [
     },
     {
         id: 103,
-        date:`2020 103`,
+        date:`2020 `,
         title: `Ugwuanyi, C. S., Okeke, C. I. O., Nnamani, P. A., Obochi, E. C. & Obasi, C. C.
         `,
         body: `  Relative effect of animated and non-animated powerpoint presentations on
         physics students’ achievement. Cypriot Journal of Educational Sciences. 15(2), 282–
         291.  <a href="https://doi.org/10.18844/cjes.v15i2.4647" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 104,
-        date:`2020 104`,
+        date:`2020 `,
         title: `<small>Ugwuanyi, C.C., Nwachukwu, W.C., Ugwuanyi, C.S., Okeke, C.I.O., Nworgu,
         B.G., Nwoye, M.N., Odo, I.O., Okeke, A.M., Inweregbuh, O.C., Osakwe, I.J. & Idoko,
         J.U. </small>`,
@@ -1041,39 +1041,39 @@ const journal = [
         Engineering Teaching. International Journal of Mechanical and Production
         Engineering Research and Development (IJMPERD), 10(4): 359-368.
         <a href="http://dx.doi.org/10.24247/ijmperdaug202031" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 105,
-        date:`2020 105`,
+        date:`2020 `,
         title: ` Eya, M.N., Attah, F.O., Nwoji, I.H., Ugwuanyi, C.S., Okeke, C.I.O. & Ekwueme,
         U.H. `,
         body: ` Socio-Psychological Factors as Correlates of Students' Performance in
         Chemistry: Implication for Science and Engineering Education. International Journal
         of Mechanical and Production Engineering Research and Development (IJMPERD),
         10(4), 239–248.  <a href="https://doi.org/10.24247/ijmperdaug202021" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 106,
-        date:`2020 106`,
+        date:`2020 `,
         title: `Okeke, C.I.O., Okeke, C.C. & Ugwuanyi, C.S. `,
         body: `  Intervention strategies
         that can support young adults’ transition into positive fatherhood: implications for
         Science, Technology, Engineering and Mathematics Education. International Journal
         of Mechanical and Production Engineering Research and Development (IJMPERD),
         10(3): 8585–8596.  <a href="https://doi.org/10.24247/ijmperdjun2020816" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 107,
-        date:` 2020 107`,
+        date:` 2020 `,
         title: `Thwala, S.K., Ugwuanyi, C.S., Okeke, C.I.O. & Gama, N.N. `,
         body: `  Teachers’
         Experiences with Dyslexic Learners in Mainstream Classrooms: Implications for
         Teacher Education. International Journal of Higher Education, 9(6):34-43.
          <a href="https://doi.org/10.5430/ijhe.v9n6p34" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 108,
@@ -1088,7 +1088,7 @@ const journal = [
     },
     {
         id: 109,
-        date:`2020 109`,
+        date:`2020 `,
         title: `Benson, O.O., Nwagbo, C.R., Ugwuanyi, C.S. & Okeke, C.I.O. `,
         body: ` 
         Students’ perception of teachers’ pedagogical skills and its influence on their attitude
@@ -1096,439 +1096,439 @@ const journal = [
         International Journal of Mechanical and Production Engineering Research and
         Development (IJMPERD) 10(3):14701–
         14714.  <a href="http://dx.doi.org/10.24247/ijmperdjun20201397" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 110,
-        date:`2018 110`,
+        date:`2018 `,
         title: `Salami, I.A. & Okeke C.I.O. `,
         body: `  ‘Absent fathers’ socio-economic status
         and perceptions of fatherhood as related to developmental challenges faced by
         children in South Africa’, South African Journal of Childhood Education, 8(1), a522.
         10.4102/sajce.V8i1.522. 2223-7674/2223-7682`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 111,
-        date:`2018 111`,
+        date:`2018 `,
         title: `Thwala, S.K., Okeke, C.I.O., & Tshotsho, N.M.J. `,
         body: `  Adolescent girls’
         behavioural characteristics and their vulnerability to bullying in Manzini high schools.
         South African Journal of Education, 38(S1), Art. #1604, 9 pages,
          <a href="http://dx.doi.org/10.15700/saje.v38ns1a1604" class="text-primary">DOI</a> 2076-3433/0256-0100.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 112,
-        date:`2018 112`,
+        date:`2018 `,
         title: `Thwala, S.K., Okeke, C.I.O., & Tshotsho, N.M.J. `,
         body: ` Adolescent girls’
         behavioural characteristics and their vulnerability to bullying: A study of high schools
         in Swaziland. East African Journal of Educational Research and Policy, 15: 83-103.
         1997-7255. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 113,
-        date:`2018 113`,
+        date:`2018 `,
         title: `Okeke, C.I.O. `,
         body: `  Crises impacting South African men’s participation in
         early socio-education development of children and possible useful interventions.
         South African Journal of Psychology, 48(4): 476-487.
          <a href="https://doi.org/10.1177/0081246317729572" class="text-primary">DOI</a> 0081-2463.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 114,
-        date:`2018 114`,
+        date:`2018 `,
         title: `Thwala, S.K., Okeke, C.I.O., & Dludlu, I.N. `,
         body: `  A phenomenological
         approach to the challenges faced by parents of children with disabilities in Swaziland.
         Journal of Education in Developing Areas (JEDA), 26(2): 383-392.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 115,
-        date:`2017 115`,
+        date:`2017 `,
         title: `Salami, I.A., & Okeke, C.I.O. `,
         body: `  Transformation and decolonisation of
         mathematics education for sustainable development: A case study of its learning
         trend in Nigeria. Perspectives in Education, 35(2): 45-59.
          <a href="https://doi.org/10.18820/2519593X/pie.v35i2.4" class="text-primary">DOI</a> 0258-2236e/2519-593X.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 116,
-        date:`2017 116`,
+        date:`2017 `,
         title: `Salami, I.A., & Okeke, C.I.O. `,
         body: `  Socio-educational development of preschool children in Eastern Cape: Factors militating against fathers’ readiness to
         participate. South African Journal of Education, 37(3): 1-10.
         <a href="http://dx.doi.org/10.15700/saje.v37n3a1464" class="text-primary">DOI</a> 2076-3433/0256-0100.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 117,
-        date:`2017 117`,
+        date:`2017 `,
         title: `Okeke, C.I.O., & Mtyuda, P.N.P. `,
         body: `  Teacher job dissatisfaction and
         implications for sustainability and social transformation. Journal of Teacher Education
         for Sustainability, 19(1): 54-68.  <a href="https://doi.org/10.1515/jtes-2017-0004" class="text-primary">DOI</a> ISSN: 1691-
         5534.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 118,
-        date:`2016 118`,
+        date:`2016 `,
         title: `Shumba, J., Maphosa, C., Rembe, S., Okeke, C.I.O., & Drake, ML. `,
         body: ` 
         Teacher work related stress in early childhood education: Some coping strategies.
         Journal of Psychology, 7(2): 150-158.
          <a href="https://doi.org/10.1080/09764224.2016.11907855" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 119,
-        date:`2016 119`,
+        date:`2016 `,
         title: `Mncanca, M., & Okeke, C.I.O. `,
         body: `  Positive fatherhood: A key synergy for
         functional early childhood education in South Africa. Journal of Sociology and Social
         Anthropology, 7(4): 221-232.  <a href="https://doi.org/10.1080/09766634.2016.11885720" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 120,
-        date:`2016 120`,
+        date:`2016 `,
         title: `Okeke, C.I.O., & Mpahla, N.E. `,
         body: `  Continuing professional teacher
         development: the case of junior teachers in rural South Africa. Studies of Tribes &
         Tribal (S-T & T), 14(1): 1-10.  <a href="https://doi.org/10.1080/0972639X.2016.11886726" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 121,
-        date:`2016 121`,
+        date:`2016 `,
         title: `Adu, E.A., & Okeke, C.I.O. `,
         body: `  An investigation into the causes of stress
         among preschool educators in East London Education District. Journal of Psychology,
         7(1): 11-22.  <a href="https://doi.org/10.1080/09764224.2016.11907840" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 122,
-        date:`2016 122`,
+        date:`2016 `,
         title: `Mtyuda, PNP & Okeke, C.I.O. `,
         body: `  Factors associated with teachers’ job
         dissatisfaction in schools in rural Eastern Cape Province. Studies of Tribes & Tribal
         (S-T & T), 14(1): 44-53.  <a href="https://doi.org/10.1080/0972639X.2016.11886731" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 123,
-        date:`2016 123`,
+        date:`2016 `,
         title: `Mufutau, M.A., & Okeke, C.I.O. `,
         body: `  Factors affecting rural men’s
         participation in children’s preschool in one rural education district in the Eastern Cape
         Province. Studies of Tribes & Tribal (S-T & T), 14(1): 18-28.
          <a href="https://doi.org/10.1080/0972639X.2016.11886728" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 124,
-        date:`2016a 124`,
+        date:`2016a `,
         title: `Mathwasa, J., & Okeke, C.I.O. `,
         body: ` Educators’ perspectives on fathers’
         participation in the early childhood education of their children. International Journal of
         Educational Sciences, 13(2): 172-185.
          <a href=" https://doi.org/10.1080/09751122.2016.11890451" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 125,
-        date:`2016 125`,
+        date:`2016 `,
         title: `Sotuku, N, Okeke, C.I.O., & Mathwasa, J. `,
         body: ` Early childhood provisioning
         for children between 3 to 5 years within rural Eastern Cape Communities: The untold
         stories of the physical environment. Journal of Human Ecology, 54(1): 25-34.
          <a href="https://doi.org/10.1080/09709274.2016.11906983" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 126,
-        date:`2016b 126`,
+        date:`2016b `,
         title: `Mathwasa, J., & Okeke, C.I.O. `,
         body: `  Barriers educators face in involving
         fathers in the education of their children in the foundation phase. J. Soc. Sci, 46(3):
         229-240.  <a href="https://doi.org/10.1080/09718923.2016.11893531" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 127,
-        date:`2016 127`,
+        date:`2016 `,
         title: `Mncanca, M., Okeke C.I.O., & Fletcher, R. `,
         body: ` Black fathers’ participation
         in early childhood development in South Africa: What do we know? J Soc Sci, 46(3):
         202-213.  <a href="https://doi.org/10.1080/09718923.2016.11893528" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 128,
-        date:`2016 128`,
+        date:`2016 `,
         title: `Shumba, J., Rembe, S., Maphosa, C., Sotuku, N., Adu, E.O., Drake, M.L.,
         Duku, N., & Okeke, C.I.O. `,
         body: `  Causes of work related teacher stress in early
         childhood development: A qualitative analysis. J Soc Sci, 46(3): 214-223.
          <a href="https://doi.org/10.1080/09718923.2016.11893529" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 129,
-        date:`2015 129`,
+        date:`2015 `,
         title: `Okeke, C.I.O., & Drake, M.L.  `,
         body: ` Protecting children’s rights in early
         childhood research in South Africa: What ethical measures are in place? International
         Journal of Education Sciences, 10(2): 229-240.
          <a href="https://doi.org/10.1080/09751122.2015.11917654" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 130,
-        date:`2015 130`,
+        date:`2015 `,
         title: `Okeke, C.I.O., Shumba, J., Rembe, S., & Sotuku, N. `,
         body: ` Demographic
         variables, work-stimulated stressors and coping strategies of pre-school educators: A
         concept paper. Journal of Psychology, 6(1): 91-101.
          <a href="https://doi.org/10.1080/09764224.2015.11885528" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 131,
-        date:`2015a 131`,
+        date:`2015a `,
         title: `Mpahla, N.E., & Okeke, C.I.O. `,
         body: ` Junior secondary educators’ views on
         the strategies for implementing continuing professional development programmes in
         one rural education district. Studies of Tribes and Tribal, 13(1): 10-21.
          <a href="https://doi.org/10.1080/0972639X.2015.11886707" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 132,
-        date:`2015b 132`,
+        date:`2015b `,
         title: ` Mpahla, N.E., & Okeke, C.I.O. `,
         body: ` The rurality of continuing professional
         teacher development (CPTD). Studies of Tribes and Tribal, 13(1): 22-33.
         <a href="https://doi.org/10.1080/0972639X.2015.11886708" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 133,
-        date:``,
-        title: ``,
-        body: ` Adu, E.O., & Okeke, C.I.O. (2014). Factors affecting teachers’ participation in
+        date:`2014`,
+        title: `Adu, E.O., & Okeke, C.I.O. `,
+        body: `  Factors affecting teachers’ participation in
         continuing professional development (CPD): Lecturers’ perspectives. Journal of
         Sociology and Social Anthropology, 5(3): 271-281.
          <a href="https://doi.org/10.1080/09766634.2014.11885631" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 134,
-        date:`2014 134`,
+        date:`2014 `,
         title: `Okeke, C.I.O., Adu, E.O., Drake, M.L., & Duku, N.S. `,
         body: ` Correlating
         demographic variables with occupational stress and coping strategies of pre-school
         educators: A literature review. Journal of Psychology, 5(2): 143-154.
          <a href="https://doi.org/10.1080/09764224.2014.11885514" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 135,
-        date:`2014 135`,
+        date:`2014 `,
         title: `Okeke, C.I.O., & Mazibuko G.F. `,
         body: `  Inclusion and mainstreaming:
         Challenges faced Swazi parents of school children with special education needs.
         Journal of Educational Sciences, 7(1): 9-20.
          <a href="https://doi.org/10.1080/09751122.2014.11890165" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 136,
-        date:`2014 136`,
+        date:`2014 `,
         title: `Okeke CIO `,
         body: ` Effective home-school partnership: Some strategies to
         help strengthen parental involvement. South African Journal of Education, 34(3): 1-9.
          <a href="http://www.sajournalofeducation.co.za/" class="text-primary">DOI</a> `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 137,
-        date:`2014 137`,
+        date:`2014 `,
         title: `Nxumalo, KN, Okeke, C.I.O & Mammen, KJ `,
         body: ` Cultural beliefs and
         practices towards HIV/AIDS amongst Swazi high school learners. Studies on EthnoMedicine, 8(2): 135-146. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 138,
-        date:`2014 138`,
+        date:`2014 `,
         title: `Okeke, CIO `,
         body: `  Learning from ‘good’ practice: what could African
         [universities] possibly learn from the bologna process and European students’
         mobility? African Journal of Pedagogy and Curriculum, 1(1): 58-71.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 139,
-        date:`2013 139`,
+        date:`2013 `,
         title: `Okeke, C. I. O., & Dlamini, S. C.  `,
         body: `  An empirical study of stressors that
         impinge on teachers in secondary school in Swaziland. South African Journal of
         Education, 33(1): 32-43.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 140,
-        date:`2012 140`,
+        date:`2012 `,
         title: `Okeke, C. `,
         body: ` A neglected impediment to true Africanisation of African
         higher education curricula: Same agenda, differential fee regimes. Journal of Higher
         Education in Africa, 8(2), 39-52. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 141,
-        date:`2012 141`,
+        date:`2012 `,
         title: `Okeke, C. I. O. `,
         body: `  Bullying as gendered violence: Girls talk of their
         classroom experiences within a heterogeneous classroom. EDUCARE: International
         Journal for Educational Studies, 5(1): 1 -14.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 142,
-        date:`2011 142`,
+        date:`2011 `,
         title: `Okeke, C. I. O. `,
         body: `  Domestic and international tuition fees in African
         universities: Might this impede the quest for Africanisation of higher education?
         Journal of Studies in International Education, 15(5): 429-444.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 143,
-        date:`2010e 143`,
+        date:`2010e `,
         title: `Okeke, C. I. O. `,
         body: ` An encounter with the supervisor’s and institutional
         discourses: A personal reflective account. Southern African Review of Education,
         16(1), 114-130. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 144,
-        date:`2010b 144`,
+        date:`2010b `,
         title: `Okeke, C. I. O. `,
         body: `  Guilty or not guilty? How Nigerian homes impede the
         aspirations of Nigerian girls for higher education. US-China Education Review, 7(6),
         16-30.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 145,
-        date:`2010a 145`,
+        date:`2010a `,
         title: `Okeke, C. I. O. `,
         body: ` A neglected impediment to true Africanisation of
         African higher education curricula: Same Agenda; different fee regimes. Journal of
         Higher Education in Africa, 8(2), 39-52. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 146,
-        date:`2009c 146`,
+        date:`2009c `,
         title: `Okeke, C. I. O..`,
         body: `  The discovery of an interaction sequence: Echoes
         from the application of the symbolic interactionism and grounded theorising. UNISWA
         Research Journal, 24, 19-31.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 147,
-        date:`2009b 147`,
+        date:`2009b `,
         title: `Okeke, C. I. O.`,
         body: ` Issues pertaining to the theoretical framework of a
         study: Reflections from some universities in three African countries. The Nigerian
         Journal of Guidance & Counseling, 14(1): 58-70. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 148,
-        date:``,
-        title: `2009a 148`,
-        body: ` Okeke, C. I. O.  The experiences with qualitative validity in a
+        date:`2009a`,
+        title: ` Okeke, C. I. O.`,
+        body: `   The experiences with qualitative validity in a
         classroom research: Issues Pertaining to value claims. EDUCARE: International
         Journal for Educational Studies, 2(1): 1-16.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 149,
-        date:`2008 149`,
+        date:`2008 `,
         title: `Okeke, C. I. O. `,
         body: ` A framework for curriculum policy for social cohesion in
         Africa. Progressio, 30(1&2): 55-69. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 150,
-        date:`2005 150`,
+        date:`2005 `,
         title: `Okeke, C. I. O., & Ume, T. A. `,
         body: `  The application of the interviewing
         technique in qualitative research: What benefits? Review of Education, Institute of
         Education, University of Nigeria, Nsukka, 16 (2): 153-164.`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 151,
-        date:`2004a 151`,
+        date:`2004a `,
         title: `Okeke, C. I. O., & Ume, T. A `,
         body: ` The Inappropriateness of the use of
         statistical tools in the analysis of fieldwork data: Implications for Adult Education
         Administrators. Journal of Adult Education and Development (JAED), University of
         Nigeria, Nsukka, 2 (2), 164 –172. `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 152,
-        date:`2004b 152`,
+        date:`2004b `,
         title: `Okeke, C. I. O., & Ume, T. A `,
         body: ` Some epistemological issues in the
         conduct of social and behavioural studies in the Faculty of Education of Nigerian
         Universities. The Qualitative Report, 9 (2) 320-334.
          <a href="http://www.nova.edu/ssss/QR/QR9-2/okeke.pdf" class="text-primary">DOI</a>`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 153,
-        date:`2003 153`,
+        date:`2003 `,
         title: `Okeke, C. I. O. `,
         body: ` The Gendered perception of schooling amongst sec.
         school students: A qualitative approach. The Degree of Doctor of Philosophy (PhD)
         Thesis, presented to the Faculty of Education, University of Nigeria Nsukka `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 154,
-        date:`1998 154`,
+        date:`1998 `,
         title: `Okeke, C. I. O. `,
         body: ` The level parental involvement in the management of
         primary schools in Northwest London. Master’s Degree Dissertation, presented to the
         Faculty of Humanities and Teacher Education, University of North London England `,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
     {
         id: 155,
-        date:`1992 155`,
+        date:`1992 `,
         title: `Okeke, C. I. O. `,
         body: `  The development of the Nigerian Union of Teachers:
         Problems and prospects. A project presented in partial fulfilment of the requirements
         for the degree of Bachelor of Arts in Educational Foundations & History of the
         University of Port Harcourt, Rivers State, Nigeria`,
-        download: `<a href="#" download="#" class="custom-btn btn">Download</a>`
+        download: `<a href="#" download="#" class="custom-btn btn obj-display-none">Download</a>`
     },
 ]
 
@@ -1540,7 +1540,7 @@ const loadJournal = () => {
     journal.map((journalData) => {
         const {img, date, title, body, download } = journalData;
         displayJournalData += `
-        <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0 ">
+        <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0 journal-cover">
                            
                       
         <div class="custom-block-wrap">
@@ -1549,7 +1549,7 @@ const loadJournal = () => {
         <div class="custom-block">
             <div class="custom-block-body">
                 <h5 class="mb-3">${date}</h5>
-                <p> <strong>${title}</strong> ${body}</p>
+                <p  class="title"> <strong>${title}</strong> ${body}</p>
 
                 <div class="progress mt-4">
                     <div class="progress-bar w-100" role="progressbar" aria-valuenow="100"
@@ -1567,3 +1567,41 @@ const loadJournal = () => {
     })
 }
 loadJournal()
+
+
+
+
+
+// search bar
+let searchJournal =()=>{
+    let journalInput = document.getElementById('journalInput');
+
+    
+    journalInput.addEventListener('keyup', () =>{
+        let filterKey = journalInput.value.toLowerCase();
+        let journalData = document.querySelector('.journal-container')
+        let journalContainer = journalData.querySelectorAll(".journal-cover");
+        let falseJournal = false
+        journalContainer.forEach((removeJournal) => {
+            let dataTitle = removeJournal.querySelector(".title")
+           if(dataTitle.innerHTML.toLowerCase().indexOf(filterKey) < 0){
+               removeJournal.style.display = "none"
+               falseJournal = true
+    
+           }
+           else{
+               removeJournal.style.display = "initial"
+               falseJournal = false
+    
+           }
+           
+       })
+    
+    })
+    
+}
+searchJournal()
+
+
+
+

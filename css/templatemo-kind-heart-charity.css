@@ -1744,3 +1744,7 @@ blockquote::before {
   color: #fff;
   cursor: pointer;
 }
+
+.obj-display-none{
+  display: none !important;
+}

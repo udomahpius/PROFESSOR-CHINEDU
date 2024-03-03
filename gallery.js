@@ -11,99 +11,99 @@ const gallery = [
     },
     {
         id: 3,
-        img:`/images/okeke gallery/okeke-3.jpeg`
+        img:`./images/okeke gallery/okeke-3.jpeg`
     },
     {
         id: 4,
-        img:`/images/okeke gallery/okeke-4.jpeg`
+        img:`./images/okeke gallery/okeke-4.jpeg`
     },
     {
         id: 5,
-        img:`/images/okeke gallery/okeke-5.jpeg`
+        img:`./images/okeke gallery/okeke-5.jpeg`
     },
     {
         id: 6,
-        img:`/images/okeke gallery/okeke-6.jpeg`
+        img:`./images/okeke gallery/okeke-6.jpeg`
     },
     {
         id: 7,
-        img:`/images/okeke gallery/okeke-7.jpeg`
+        img:`./images/okeke gallery/okeke-7.jpeg`
     },
     {
         id: 8,
-        img:`/images/okeke gallery/okeke-8.jpeg`
+        img:`./images/okeke gallery/okeke-8.jpeg`
     },
     {
         id: 9,
-        img:`/images/okeke gallery/okeke-9.jpeg`
+        img:`./images/okeke gallery/okeke-9.jpeg`
     },
     {
         id: 10,
-        img:`/images/okeke gallery/okeke-10.jpeg`
+        img:`./images/okeke gallery/okeke-10.jpeg`
     },
     {
         id: 11,
-        img:`/images/okeke gallery/okeke-11.jpeg`
+        img:`./images/okeke gallery/okeke-11.jpeg`
     },
     {
         id: 12,
-        img:`/images/okeke gallery/okeke-12.jpeg`
+        img:`./images/okeke gallery/okeke-12.jpeg`
     },
     {
         id: 13,
-        img:`/images/okeke gallery/okeke-13.jpeg`
+        img:`./images/okeke gallery/okeke-13.jpeg`
     },
     {
         id: 14,
-        img:`/images/okeke gallery/okeke-14.jpeg`
+        img:`./images/okeke gallery/okeke-14.jpeg`
     },
     {
         id: 15,
-        img:`/images/okeke gallery/okeke-15.jpeg`
+        img:`./images/okeke gallery/okeke-15.jpeg`
     },
     {
         id: 16,
-        img:`/images/okeke gallery/okeke-16.jpeg`
+        img:`./images/okeke gallery/okeke-16.jpeg`
     },
     {
         id: 17,
-        img:`/images/okeke gallery/okeke-17.jpeg`
+        img:`./images/okeke gallery/okeke-17.jpeg`
     },
     {
         id: 18,
-        img:`/images/okeke gallery/okeke-18.jpeg`
+        img:`./images/okeke gallery/okeke-18.jpeg`
     },
     {
         id: 19,
-        img:`/images/okeke gallery/okeke-19.jpeg`
+        img:`./images/okeke gallery/okeke-19.jpeg`
     },
     {
         id: 20,
-        img:`/images/okeke gallery/okeke-20.jpeg`
+        img:`./images/okeke gallery/okeke-20.jpeg`
     },
     {
         id: 21,
-        img:`/images/okeke gallery/okeke-21.jpeg`
+        img:`./images/okeke gallery/okeke-21.jpeg`
     },
     {
         id: 22,
-        img:`/images/okeke gallery/okeke-22.jpeg`
+        img:`./images/okeke gallery/okeke-22.jpeg`
     },
     {
         id: 23,
-        img:`/images/okeke gallery/okeke-23.jpeg`
+        img:`./images/okeke gallery/okeke-23.jpeg`
     },
     {
         id: 24,
-        img:`/images/okeke gallery/okeke-24.jpeg`
+        img:`./images/okeke gallery/okeke-24.jpeg`
     },
     {
         id: 25,
-        img:`/images/okeke gallery/okeke-25.jpeg`
+        img:`./images/okeke gallery/okeke-25.jpeg`
     },
     {
         id: 26,
-        img:`/images/okeke gallery/okeke-26.jpeg`
+        img:`./images/okeke gallery/okeke-26.jpeg`
     },
 ]
 
@@ -120,7 +120,7 @@ const gallerybook = () => {
                         
                         <div class="col-lg-6 col-12 ">
                             <div class="news-block">
-                                <div class="news-block-top">
+                                <div class="news-block-top mb-5">
                                    
                                         <img src="${img}" class="news-image img-fluid" alt="" onclick="openImg(this.src)">
                                    

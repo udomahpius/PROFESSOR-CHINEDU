@@ -735,8 +735,8 @@ strong {
   border-radius: 100%;
   display: block;
   margin: auto;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
 }
 
